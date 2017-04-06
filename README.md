@@ -13,8 +13,8 @@ Este documento contém a especificação do projeto do banco de dados <nome do p
 ### 3.MINI-MUNDO do Salão de Beleza<br>
 Descrever o mini-mundo. Não deve ser maior do que 30 linhas <br>
 
-  Um salão de beleza  chamado “beleza pura” ,situado na região de Nova Almeida na serra, Av. Belo Horizonte ,n°5525, estado do ES.<br>
-  No salão a forma de atendimento é  por ordem de chegada (não tem uma numeração para  identificar quem chegou primeiro assim fica pelo bom senso), ou agendamento por telefone.Normalmente só é agendamento por telefone quando é corte do sexo feminino pois leva mais tempo devito (corte de cabelo , selagem ou manicure etc...)<br>
+	O salão de beleza “Beleza Pura” está situado na Av. Belo Horizonte, 5525, Nova Almeida, Serra, ES.<br> Nele a forma de atendimento do corte masculino é dada pela ordem de chegada, não havendo numeração para identificar quem chegou primeiro.<br> Quando o corte é feminino faz-se o agendamento do horário por telefone, porque normalmente leva-se mais tempo graças aos outros serviços que podem vir acompanhados (selagem, pintura, manicure etc.).<br>
+	
 	No salão é dividido em duas alas o de sexo masculino e o do sexo feminino<br>
 na ala do sexo masculino e por ordem de chegada e na ala do sexo feminino normalmente e o por agendamento telefônico(quando não tem pessoas agendada e por ordem de chegada também) . existem 4 funcionários para cortar cabelo dos homens e 2 para corta o cabelo das mulheres(“esses dois funcionários sao os mesmos que corta o cabelo dos homens) e 1 pra poder fazer relaxamento e 1 para manicure e pedicure.<br> 
 	Quando chega uma mulher confere se ela esta agenda naquele  horário marcado se não estiver confere se tem alguém agendado caso não tenha  ela é atendida na hora as vezes falta uma ou  não da prair (reagendar outro horário) e o fica com horário vago.<br>

@@ -9,7 +9,9 @@ Trabalho desenvolvido durante a disciplina de BD
 	Jefferson Napomuceno: erjeffesonnapomuceno@gmail.com
 
 ### 2. INTRODUÇÃO E MOTIVAÇÃO <br>
-Este documento contém a especificação do projeto do banco de dados <nome do projeto> e motivação da escolha realizada. <br>
+	
+	Este documento contém a especificação do projeto do banco de dados "Beleza Pura Beauty Salon".
+	Escolhemos esse tema pois (motivação da escolha realizada)
 
 ### 3. MINI-MUNDO do Salão de Beleza <br>
 Descrever o mini-mundo. Não deve ser maior do que 30 linhas. <br>

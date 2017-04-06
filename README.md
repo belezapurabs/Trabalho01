@@ -3,14 +3,15 @@ Trabalho desenvolvido durante a disciplina de BD
 
 # Sumário
 
-### 1.COMPONENTES <br>
-Flávia Pissarra: flaviapissarra@gmail.com <br>
-Jefferson Napomuceno: erjeffesonnapomuceno@gmail.com <br>
+### 1. COMPONENTES <br>
+	
+	Flávia Pissarra: flaviapissarra@gmail.com <br>
+	Jefferson Napomuceno: erjeffesonnapomuceno@gmail.com <br>
 
-### 2.INTRODUÇÃO E MOTIVAÇÃO <br>
+### 2. INTRODUÇÃO E MOTIVAÇÃO <br>
 Este documento contém a especificação do projeto do banco de dados <nome do projeto> e motivação da escolha realizada. <br>
 
-### 3.MINI-MUNDO do Salão de Beleza <br>
+### 3. MINI-MUNDO do Salão de Beleza <br>
 Descrever o mini-mundo. Não deve ser maior do que 30 linhas. <br>
 
 	"O salão de beleza “Beleza Pura” está situado na Av. Belo Horizonte, 5525, Nova Almeida, Serra, ES.
@@ -38,7 +39,7 @@ Descrever o mini-mundo. Não deve ser maior do que 30 linhas. <br>
 	demora no preenchimento dos papeis, desperdício de tempo, possibilidade de confundir valores ao fazer 
 	cálculos, risco de esquecer alguma entrada importante, perda dos papeis, entre outros."
 
-### 4.RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
+### 4. RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
 neste ponto a codificação não e necessária, somente as ideias de telas devem ser criadas, o princípio aqui é pensar na criação da interface para identificar possíveis informações a serem armazenadas ou descartadas <br>
 
 Sugestão: https://balsamiq.com/products/mockups/<br>

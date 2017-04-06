@@ -10,8 +10,17 @@ Jefferson Napomuceno: erjeffesonnapomuceno@gmail.com<br>
 ### 2.INTRODUÇÃO E MOTIVAÇÃO<br>
 Este documento contém a especificação do projeto do banco de dados <nome do projeto> e motivação da escolha realizada. <br>
 
-### 3.MINI-MUNDO<br>
+### 3.MINI-MUNDO do Salão de Beleza<br>
 Descrever o mini-mundo. Não deve ser maior do que 30 linhas <br>
+
+	Um salão de beleza  chamado “beleza pura” ,situado na região de Nova Almeida na serra, Av. Belo Horizonte ,n°5525, estado do ES. No salão a forma de atendimento é  por ordem de chegada (não tem uma numeração para  identificar quem chegou primeiro assim fica pelo bom senso), ou agendamento por telefone.Normalmente só é agendamento por telefone quando é corte do sexo feminino pois leva mais tempo devito (“corte de cabelo , selagem ou manicure etc...).<br>
+	No salão é dividido em duas alas o de sexo masculino e o do sexo feminino<br>
+na ala do sexo masculino e por ordem de chegada e na ala do sexo feminino normalmente e o por agendamento telefônico(quando não tem pessoas agendada e por ordem de chegada também) . existem 4 funcionários para cortar cabelo dos homens e 2 para corta o cabelo das mulheres(“esses dois funcionários sao os mesmos que corta o cabelo dos homens) e 1 pra poder fazer relaxamento e 1 para manicure e pedicure.<br> 
+	Quando chega uma mulher confere se ela esta agenda naquele  horário marcado se não estiver confere se tem alguém agendado caso não tenha  ela é atendida na hora as vezes falta uma ou  não da prair (reagendar outro horário) e o fica com horário vago.<br>
+Dados básicos para o agendamento (nome,dia, horário e número de telefone),após conferir se está agendada leva o cliente para cadeira e ali ele examina o cabelo dela e ver o tipo de corte que ela quer ,faz sugestão de ideias  para o corte do cabelo dela , (às vezes vender algum produto capilar).<br>
+	Após ter feito o corte e tudo que foi pedido pelo cliente ,é feito uma ficha de controle próprio de tudo que ele fez e tipo de corte e se vendeu algum produto capilar.para no final do dia ele fazer a contabilidade do que entrou no dia e no final do mês ver o lucro.<br>
+	Com isso ele perde algum tempo para preencher a ficha e o que ele quer e agilidade ,e pode correr o risco de esquecer de preencher a ficha ou até mesmo perdê la.<br>
+
 
 ### 4.RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
 neste ponto a codificação não e necessária, somente as ideias de telas devem ser criadas, o princípio aqui é pensar na criação da interface para identificar possíveis informações a serem armazenadas ou descartadas <br>

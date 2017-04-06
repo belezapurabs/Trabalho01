@@ -35,8 +35,8 @@ Descrever o mini-mundo. Não deve ser maior do que 30 linhas. <br>
 	Após a conferência de horário, o cliente recebe o serviço pretendido. Pode ser que o profissional tente
 	fazer uma promoção de seus produtos durante a prestação do mesmo.
 	
-	Terminado o serviço, o profissional faz sua ficha de controle anotando todos os serviços que prestou e
-	também se vendeu produtos. Caso tenha vendido, recebe uma comissão. No final do dia é contabilizado tudo
+	Terminado o serviço, o profissional preenche sua ficha de controle anotando todos os serviços que prestou
+	e também se vendeu produtos. Caso tenha vendido, recebe uma comissão. No final do dia é contabilizado tudo
 	o que entrou e também tudo o que saiu: lucros e despesas. Esse sistema obsoleto só traz desvantagens: 
 	demora no preenchimento dos papeis, desperdício de tempo, possibilidade de confundir valores ao fazer 
 	cálculos, risco de esquecer alguma entrada importante, perda dos papeis, entre outros."

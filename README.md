@@ -5,8 +5,8 @@ Trabalho desenvolvido durante a disciplina de BD
 
 ### 1. COMPONENTES <br>
 	
-	Flávia Pissarra: flaviapissarra@gmail.com <br>
-	Jefferson Napomuceno: erjeffesonnapomuceno@gmail.com <br>
+	Flávia Pissarra: flaviapissarra@gmail.com
+	Jefferson Napomuceno: erjeffesonnapomuceno@gmail.com
 
 ### 2. INTRODUÇÃO E MOTIVAÇÃO <br>
 Este documento contém a especificação do projeto do banco de dados <nome do projeto> e motivação da escolha realizada. <br>

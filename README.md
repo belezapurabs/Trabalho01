@@ -21,9 +21,9 @@ Descrever o mini-mundo. Não deve ser maior do que 30 linhas. <br>
 	
 	Após a conferência de horário, o cliente recebe o serviço pretendido. Durante o serviço pode ser que o profissional tente fazer uma promoção de seus produtos. <br>
 	
+	Terminado o serviço, o profissional faz sua ficha de controle anotando todos os serviços que prestou e também se vendeu produtos. Caso tenha vendido, recebe uma comissão. No final do dia é contabilizado tudo o que entrou e também tudo o que saiu: lucros e despesas.<br>
 	------------------
 
-Após ter feito o corte e tudo que foi pedido pelo cliente ,é feito uma ficha de controle próprio de tudo que ele fez e tipo de corte e se vendeu algum produto capilar.para no final do dia ele fazer a contabilidade do que entrou no dia e no final do mês ver o lucro.<br>
 	Com isso ele perde algum tempo para preencher a ficha e o que ele quer e agilidade ,e pode correr o risco de esquecer de preencher a ficha ou até mesmo perdê la.<br>
 
 	------------------

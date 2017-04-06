@@ -7,7 +7,7 @@ Trabalho desenvolvido durante a disciplina de BD
 Flávia Pissarra: flaviapissarra@gmail.com <br>
 Jefferson Napomuceno: erjeffesonnapomuceno@gmail.com<br>
 
-### 2.INTRODUÇÃO E MOTIVAÇAO<br>
+### 2.INTRODUÇÃO E MOTIVAÇÃO<br>
 Este documento contém a especificação do projeto do banco de dados <nome do projeto> e motivação da escolha realizada. <br>
 
 ### 3.MINI-MUNDO<br>

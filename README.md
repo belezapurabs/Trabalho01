@@ -13,8 +13,8 @@ Este documento contém a especificação do projeto do banco de dados <nome do p
 ### 3.MINI-MUNDO do Salão de Beleza<br>
 Descrever o mini-mundo. Não deve ser maior do que 30 linhas <br>
 
-	O salão de beleza “Beleza Pura” está situado na Av. Belo Horizonte, 5525, Nova Almeida, Serra, ES.<br>
-	Nele a forma de atendimento do corte masculino é dada pela ordem de chegada, não havendo numeração para identificar quem chegou primeiro.<br> 
+	O salão de beleza “Beleza Pura” está situado na Av. Belo Horizonte, 5525, Nova Almeida, Serra, ES.
+	Nele a forma de atendimento do corte masculino é dada pela ordem de chegada, não havendo numeração para identificar quem chegou primeiro.
 	Quando o corte é feminino faz-se o agendamento do horário por telefone, porque normalmente leva-se mais tempo graças aos outros serviços que podem vir acompanhados (selagem, pintura, manicure etc.).<br>
 	
 	No salão é dividido em duas alas o de sexo masculino e o do sexo feminino<br>

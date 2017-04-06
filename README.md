@@ -33,7 +33,7 @@ Descrever o mini-mundo. Não deve ser maior do que 30 linhas. <br>
 	horário do serviço desejado e o número de telefone e/ou celular. Também podem ocorrer reagendamentos.
 	
 	Após a conferência de horário, o cliente recebe o serviço pretendido. Pode ser que o profissional tente
-	fazer uma promoção de seus produtos durante a prestação do mesmo.
+	fazer uma promoção de seus produtos durante o trabalho.
 	
 	Terminado o serviço, o profissional preenche sua ficha de controle anotando todos os serviços que prestou
 	e também se vendeu produtos. Caso tenha vendido, recebe uma comissão. No final do dia é contabilizado tudo

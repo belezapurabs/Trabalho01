@@ -3,25 +3,30 @@ Trabalho desenvolvido durante a disciplina de BD
 
 # Sumário
 
-### 1.COMPONENTES<br>
+### 1.COMPONENTES <br>
 Flávia Pissarra: flaviapissarra@gmail.com <br>
-Jefferson Napomuceno: erjeffesonnapomuceno@gmail.com<br>
+Jefferson Napomuceno: erjeffesonnapomuceno@gmail.com <br>
 
-### 2.INTRODUÇÃO E MOTIVAÇÃO<br>
+### 2.INTRODUÇÃO E MOTIVAÇÃO <br>
 Este documento contém a especificação do projeto do banco de dados <nome do projeto> e motivação da escolha realizada. <br>
 
-### 3.MINI-MUNDO do Salão de Beleza<br>
-Descrever o mini-mundo. Não deve ser maior do que 30 linhas <br>
+### 3.MINI-MUNDO do Salão de Beleza <br>
+Descrever o mini-mundo. Não deve ser maior do que 30 linhas. <br>
 
-	O salão de beleza “Beleza Pura” está situado na Av. Belo Horizonte, 5525, Nova Almeida, Serra, ES. Nele a forma de atendimento do corte masculino é dada pela ordem de chegada, não havendo numeração para identificar quem chegou primeiro. Quando o corte é feminino faz-se o agendamento do horário por telefone, porque normalmente leva-se mais tempo graças aos outros serviços que podem vir acompanhados (selagem, pintura, manicure etc.).<br>
+	"O salão de beleza “Beleza Pura” está situado na Av. Belo Horizonte, 5525, Nova Almeida, Serra, ES. O salão é dividido em alas: a feminina e a masculina. Nele, a forma de atendimento do corte masculino é dada pela ordem de chegada, não havendo numeração para identificar quem chegou primeiro. Quando o corte é feminino faz-se o agendamento do horário por telefone, porque normalmente leva-se mais tempo graças aos outros serviços que podem vir acompanhados (selagem, pintura, manicure etc.); e quando não há horário agendado, a regra do masculino vale para todos. <br>
+
+	Como a empresa é pequena, não há um considerável número de funcionários. Para cortar cabelo masculino existem 4 funcionários, sendo que 2 deles cortam também os femininos, além de 1 que faz especificamente relaxamento e 1 manicure que também é pedicure. <br>
 	
-	No salão é dividido em duas alas o de sexo masculino e o do sexo feminino<br>
-na ala do sexo masculino e por ordem de chegada e na ala do sexo feminino normalmente e o por agendamento telefônico(quando não tem pessoas agendada e por ordem de chegada também) . existem 4 funcionários para cortar cabelo dos homens e 2 para corta o cabelo das mulheres(“esses dois funcionários sao os mesmos que corta o cabelo dos homens) e 1 pra poder fazer relaxamento e 1 para manicure e pedicure.<br> 
-	Quando chega uma mulher confere se ela esta agenda naquele  horário marcado se não estiver confere se tem alguém agendado caso não tenha  ela é atendida na hora as vezes falta uma ou  não da prair (reagendar outro horário) e o fica com horário vago.<br>
-Dados básicos para o agendamento (nome,dia, horário e número de telefone),após conferir se está agendada leva o cliente para cadeira e ali ele examina o cabelo dela e ver o tipo de corte que ela quer ,faz sugestão de ideias  para o corte do cabelo dela , (às vezes vender algum produto capilar).<br>
-	Após ter feito o corte e tudo que foi pedido pelo cliente ,é feito uma ficha de controle próprio de tudo que ele fez e tipo de corte e se vendeu algum produto capilar.para no final do dia ele fazer a contabilidade do que entrou no dia e no final do mês ver o lucro.<br>
+	Quando um(a) cliente chega, confere-se o horário agendado. Caso esteja agendado, o serviço requerido é feito. Mas caso não haja nenhum agendamento, o horário fica livre para aqueles clientes que não marcaram um horário e apareceram de repente. Quanto aos dados básicos para o agendamento, solicitam nome, dia e horário do serviço desejado e o número de telefone e/ou celular. Também podem ocorrer reagendamentos. <br>
+	
+	Após a conferência de horário, o cliente recebe o serviço pretendido. Durante o serviço pode ser que o profissional tente fazer uma promoção de seus produtos. <br>
+	
+	------------------
+
+Após ter feito o corte e tudo que foi pedido pelo cliente ,é feito uma ficha de controle próprio de tudo que ele fez e tipo de corte e se vendeu algum produto capilar.para no final do dia ele fazer a contabilidade do que entrou no dia e no final do mês ver o lucro.<br>
 	Com isso ele perde algum tempo para preencher a ficha e o que ele quer e agilidade ,e pode correr o risco de esquecer de preencher a ficha ou até mesmo perdê la.<br>
 
+	------------------
 
 ### 4.RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
 neste ponto a codificação não e necessária, somente as ideias de telas devem ser criadas, o princípio aqui é pensar na criação da interface para identificar possíveis informações a serem armazenadas ou descartadas <br>

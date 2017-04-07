@@ -16,7 +16,7 @@ Trabalho desenvolvido durante a disciplina de BD
 ### 3. MINI-MUNDO DO SALÃO "BELEZA PURA" <br>
 Descrever o mini-mundo. Não deve ser maior do que 30 linhas. <br>
 
-	  O salão de beleza “Beleza Pura” está situado na Av. Belo Horizonte, 5525, Nova Almeida, Serra, ES. O salão é
+	  O salão de beleza “Beleza Pura” está situado na Av. Belo Horizonte, 5525, Nova Almeida, Serra, ES. O mesmo é
 	  dividido em alas: a feminina e a masculina. Nele, a forma de atendimento do corte masculino é dada pela ordem
 	  de chegada, não havendo numeração para identificar quem chegou primeiro. Quando o corte é feminino o agendamento
 	  do horário é feito por telefone, porque normalmente leva-se mais tempo graças aos outros serviços que podem vir
@@ -40,6 +40,10 @@ Descrever o mini-mundo. Não deve ser maior do que 30 linhas. <br>
 	  que entrou e também tudo o que saiu: lucros e despesas. Esse sistema obsoleto só traz desvantagens: demora
 	  no preenchimento dos papeis, desperdício de tempo, possibilidade de confundir valores ao fazer cálculos, 
 	  risco de esquecer alguma entrada importante, perda dos papeis, entre outros.
+	  
+	  A proposta é criar um sistema que integralize todas essas informações de forma suscinta, de modo que o(a)
+	  administrador(a)/dono(a)/gerente do estabelecimento possa ter o controle de tudo que acontece no salão,
+	  desde a parte de cortes e pinturas (entre outros) quanto do estoque de produtos e saldo conforme o tempo.
 
 ### 4. RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
 Neste ponto a codificação não e necessária, somente as ideias de telas devem ser criadas, o princípio aqui é pensar na criação da interface para identificar possíveis informações a serem armazenadas ou descartadas. <br>

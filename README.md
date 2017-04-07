@@ -13,7 +13,7 @@ Trabalho desenvolvido durante a disciplina de BD
 	Este documento contém a especificação do projeto do banco de dados "Beleza Pura Beauty Salon".
 	Escolhemos esse tema pois (motivação da escolha realizada)
 
-### 3. MINI-MUNDO do Salão de Beleza <br>
+### 3. MINI-MUNDO DO SALÃO "BELEZA PURA" <br>
 Descrever o mini-mundo. Não deve ser maior do que 30 linhas. <br>
 
 	  O salão de beleza “Beleza Pura” está situado na Av. Belo Horizonte, 5525, Nova Almeida, Serra, ES. O salão é

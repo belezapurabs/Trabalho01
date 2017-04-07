@@ -51,7 +51,7 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 
 ![Alt text](https://github.com/discipbd1/trab01/blob/master/balsamiq.png?raw=true "Title")
 
-	https://salaobelezapura.mybalsamiq.com/projects/salaodebeleza/grid <br>
+	https://salaobelezapura.mybalsamiq.com/projects/salaodebeleza/grid
 
 ### 5.MODELO CONCEITUAL<br>
     a) NOTACAO ENTIDADE RELACIONAMENTO

@@ -11,9 +11,11 @@ Trabalho desenvolvido durante a disciplina de BD
 ### 2. INTRODUÇÃO E MOTIVAÇÃO <br>
 	
 	Este documento contém a especificação do projeto do banco de dados "Beleza Pura Beauty Salon".
-	Escolhemos esse tema pois (motivação da escolha realizada)
+	
+	Nossa proposta é automatizar alguns serviços do salão, o que economizaria tempo (e dinheiro), vislumbrando uma
+	melhor organização da microempresa.
 
-### 3. MINI-MUNDO DO SALÃO "BELEZA PURA" <br>
+### 3. MINI-MUNDO <br>
 Descrever o mini-mundo. Não deve ser maior do que 30 linhas. <br>
 
 	  O salão de beleza “Beleza Pura” está situado na Av. Belo Horizonte, 5525, Nova Almeida, Serra, ES. O mesmo é

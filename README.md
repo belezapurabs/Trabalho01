@@ -19,9 +19,8 @@ Descrever o mini-mundo. Não deve ser maior do que 30 linhas. <br>
 	  O salão de beleza “Beleza Pura” está situado na Av. Belo Horizonte, 5525, Nova Almeida, Serra, ES. O mesmo é
 	  dividido em alas: a feminina e a masculina. Nele, a forma de atendimento do corte masculino é dada pela ordem
 	  de chegada, não havendo numeração para identificar quem chegou primeiro. Quando o corte é feminino o agendamento
-	  do horário é feito por telefone, porque normalmente leva-se mais tempo graças aos outros serviços que podem vir
-	  acompanhados (selagem, pintura, manicure etc.); e quando não há horário agendado, a regra do masculino vale para
-	  todos.
+	  é feito por telefone, porque normalmente leva-se mais tempo graças aos outros serviços que podem vir acompanhados
+	  (selagem, pintura, manicure etc.); e quando não há horário agendado, a regra do masculino vale para todos.
 
 	  Como a empresa é pequena, não há um considerável número de funcionários. Para cortar cabelo masculino existem 4
 	  funcionários, sendo que 2 deles cortam também os femininos, além de 1 que faz especificamente relaxamento e 1

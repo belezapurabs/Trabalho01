@@ -16,7 +16,6 @@ Trabalho desenvolvido durante a disciplina de BD
 	melhor organização da microempresa.
 
 ### 3. MINI-MUNDO <br>
-Descrever o mini-mundo. Não deve ser maior do que 30 linhas. <br>
 
 	 O salão de beleza “Beleza Pura” está situado na Av. Belo Horizonte, 5525, Nova Almeida, Serra, ES. O mesmo é
 	dividido em alas: a feminina e a masculina. Nele, a forma de atendimento do corte masculino é dada pela ordem

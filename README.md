@@ -3,10 +3,13 @@ Trabalho desenvolvido durante a disciplina de BD
 
 # Sumário
 
+
 ### 1. COMPONENTES <br>
-	
+
+```	
 	Flávia Pissarra: flaviapissarra@gmail.com
 	Jefferson Napomuceno: erjeffesonnapomuceno@gmail.com
+```
 
 ### 2. INTRODUÇÃO E MOTIVAÇÃO <br>
 	

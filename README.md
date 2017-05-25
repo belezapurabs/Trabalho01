@@ -53,7 +53,7 @@ Trabalho desenvolvido durante a disciplina de BD
 ### 5.MODELO CONCEITUAL<br>
     a) NOTACAO ENTIDADE RELACIONAMENTO
     
-![Alt text](https://github.com/discipbd1/trab01/blob/master/sample_MC.png?raw=true "Modelo Conceitual")
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/MODELO%20CONCEITUAL.png "Modelo Conceitual")
     
     b) NOTACAO UML (Caso esteja fazendo a disciplina de analise)
 

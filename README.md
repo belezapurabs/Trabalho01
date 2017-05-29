@@ -78,6 +78,7 @@ Trabalho desenvolvido durante a disciplina de BD
 
 
 ### 6	MODELO LÓGICO<br>
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/L%C3%B3gico_1.png "Modelo LÓGICO")
 ### 7	MODELO FÍSICO<br>
 
         Entrega até este ponto em (data a ser definida)

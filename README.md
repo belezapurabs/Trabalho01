@@ -50,6 +50,7 @@ Trabalho desenvolvido durante a disciplina de BD
 
 	https://github.com/belezapurabs/Trabalho01/blob/master/beauty%2Bsalon.pdf
 
+### < falta colocar >
 ### 5.MODELO CONCEITUAL<br>
     a) NOTACAO ENTIDADE RELACIONAMENTO
     
@@ -87,6 +88,8 @@ Trabalho desenvolvido durante a disciplina de BD
 ### 7	MODELO FÍSICO<br>
 https://github.com/belezapurabs/Trabalho01/blob/master/SALAOBP.sql
  
+ 
+### < falta colocar > 
 ### 8	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
 #### 8.1 DETALHAMENTO DAS INFORMAÇÕES
         Detalhamento sobre as informações e processo de obtenção ou geração dos dados.
@@ -102,7 +105,8 @@ https://github.com/belezapurabs/Trabalho01/blob/master/SALAOBP.sql
 
 
         Entrega até este ponto em (data a ser definida)
-        
+
+### < falta colocar >
 ### 9	TABELAS E PRINCIPAIS CONSULTAS<br>
 OBS: Incluir para cada tópico as instruções SQL + imagens (print da tela) mostrando os resultados.<br>
 #### 9.1	CONSULTAS DAS TABELAS COM TODOS OS DADOS INSERIDOS (Todas) <br>
@@ -113,10 +117,11 @@ OBS: Incluir para cada tópico as instruções SQL + imagens (print da tela) mos
 #### 9.6	CONSULTAS COM JUNÇÃO (Todas Junções)<br>
 #### 9.7	CONSULTAS COM GROUP BY (Mínimo 5)<br>
         Entrega até este ponto em (data a ser definida)
-        
 #### 9.8	CONSULTAS COM LEFT E RIGHT JOIN (Mínimo 4) <br>
 #### 9.9	CONSULTAS COM SELF JOIN (todas) E VIEW (mais importantes) <br>
 #### 9.10	SUBCONSULTAS (Mínimo 3) <br>
+
+### < falta colocar >
 ### 10	ATUALIZAÇÃO DA DOCUMENTAÇÃO DOS SLIDES<br>
 ### 11	DIFICULDADES ENCONTRADAS PELO GRUPO<br>
 

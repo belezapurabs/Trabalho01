@@ -66,9 +66,7 @@ Trabalho desenvolvido durante a disciplina de BD
     
 #### 5.2 DECISÕES DE PROJETO
     
-    Aoi
-    
-    --------------
+    <falta colocar>
     
     [atributo]: [descrição da decisão]
     

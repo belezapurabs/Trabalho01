@@ -123,8 +123,8 @@ OBS: Incluir para cada tópico as instruções SQL + imagens (print da tela) mos
 
 ### < falta colocar >
 ### 10	ATUALIZAÇÃO DA DOCUMENTAÇÃO DOS SLIDES<br>
+
+### < falta colocar >
 ### 11	DIFICULDADES ENCONTRADAS PELO GRUPO<br>
 
-        Entrega até este ponto em (data a ser definida)
-        
 ### 12  FORMATACAO NO GIT: https://help.github.com/articles/basic-writing-and-formatting-syntax/

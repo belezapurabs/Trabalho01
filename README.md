@@ -53,15 +53,23 @@ Trabalho desenvolvido durante a disciplina de BD
 ### 5.MODELO CONCEITUAL<br>
     a) NOTACAO ENTIDADE RELACIONAMENTO
     
-![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/Conceitual_1.png "Modelo Conceitual")
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/Conceitual_1.png)
     
     b) NOTACAO UML (Caso esteja fazendo a disciplina de analise)
 
-#### 5.1 Validação do Modelo Conceitual
-    [Grupo01]: [Nomes dos que participaram na avaliação]
-    [Grupo02]: [Nomes dos que participaram na avaliação]
+    <falta colocar>
 
+#### 5.1 Validação do Modelo Conceitual
+
+    Grupo01: Gabriel, Sabrina
+    Grupo02: Luisa, Milena
+    
 #### 5.2 DECISÕES DE PROJETO
+    
+    Aoi
+    
+    --------------
+    
     [atributo]: [descrição da decisão]
     
     EXEMPLO:

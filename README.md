@@ -85,7 +85,7 @@ Trabalho desenvolvido durante a disciplina de BD
 ![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/L%C3%B3gico_1.png)
 
 ### 7	MODELO FÍSICO<br>
-![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/SALAOBP.sql)
+https://github.com/belezapurabs/Trabalho01/blob/master/SALAOBP.sql
  
 ### 8	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
 #### 8.1 DETALHAMENTO DAS INFORMAÇÕES

@@ -55,19 +55,16 @@ Trabalho desenvolvido durante a disciplina de BD
     
 ![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/Conceitual_1.png)
     
-    b) NOTACAO UML (Caso esteja fazendo a disciplina de analise)
-
-    <falta colocar>
+    <falta colocar> b) NOTACAO UML (Caso esteja fazendo a disciplina de analise)
 
 #### 5.1 Validação do Modelo Conceitual
 
     Grupo01: Gabriel, Sabrina
     Grupo02: Luisa, Milena
     
+#### < falta colocar >
 #### 5.2 DECISÕES DE PROJETO
-    
-    <falta colocar>
-    
+   
     [atributo]: [descrição da decisão]
     
     EXEMPLO:
@@ -75,20 +72,20 @@ Trabalho desenvolvido durante a disciplina de BD
     pode possuir para cada departamento mais de uma localização... 
     b) justifique!
 
+#### < falta colocar >
 #### 5.3 DESCRIÇÃO DOS DADOS 
+
     [objeto]: [descrição do objeto]
     
     EXEMPLO:
     CLIENTE: Tabela que armazena as informações relativas ao cliente<br>
     CPF: campo que armazena o número de Cadastro de Pessoa Física para cada cliente da empresa.<br>
 
-
 ### 6	MODELO LÓGICO<br>
-![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/L%C3%B3gico_1.png "Modelo LÓGICO")
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/L%C3%B3gico_1.png)
+
 ### 7	MODELO FÍSICO<br>
-(https://github.com/belezapurabs/Trabalho01/blob/master/SALAOBP.sql "Modelo FÍSICO")<br>
-        Entrega até este ponto em (data a ser definida)
-        
+(https://github.com/belezapurabs/Trabalho01/blob/master/SALAOBP.sql)<br>
  
 ### 8	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
 #### 8.1 DETALHAMENTO DAS INFORMAÇÕES

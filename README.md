@@ -76,12 +76,70 @@ Trabalho desenvolvido durante a disciplina de BD
 #### < falta colocar >
 #### 5.3 DESCRIÇÃO DOS DADOS 
 
-    [objeto]: [descrição do objeto]
+    AGENDA
+    Codigo_Agenda: o agendamento precisa ter um código que o identifique como único;
+    Hora_Agenda: precisa-se saber a hora que o serviço está agendado;
+    Data_Agenda: precisa-se saber a data que o serviço está agendado;
     
-    EXEMPLO:
-    CLIENTE: Tabela que armazena as informações relativas ao cliente<br>
-    CPF: campo que armazena o número de Cadastro de Pessoa Física para cada cliente da empresa.<br>
-
+    BAIRRO
+    Nome_Bairro: precisa-se saber o bairro que a pessoa mora;
+    Cod_Bairro: existem milhares de bairros e é preciso organizar isso;
+    
+    COMPRA
+    Desconto: precisa-se saber a porcentagem do desconto aplicado;
+    Cod_Compra: a compra precisa ter um código que a identifique como única;
+    
+    CONTATO
+    Cod_Contato: o contato precisa ter um código que o identifique como único;
+    Descricao_Contato: precisa-se explicar o código do contato;
+    
+    ESTADO
+    Cod_Estado: o estado precisa ter um código que o identifique como único;
+    Nome_Estado: precisa-se ligar um nome de estado a um código;
+    
+    FUNCIONARIO
+    Salario: precisa-se saber quanto recebe um funcionário;
+    Funcao: precisa-se saber o que cada funcionário faz na empresa;
+    
+    ITENS
+    Cod_Item: o item precisa ter um código que o identifique como único;
+    Nome: precisa-se ligar um código a uma pessoa;
+    Descricao: precisa-se explicar o código do item;
+    Preco: precisa-se saber quanto vale determinado item;
+    
+    LOCAL
+    CEP: precisa-se de um código do local;
+    Descricao: precisa-se ligar um local a um código;
+    Numero_Casa: precisa-se de um código que identifique o local como único;
+    
+    MUNICIPIO
+    Cod_Municipio: o município precisa ter um código que o identifique como único;
+    Nome_Municipio: precisa-se ligar um código a um município;
+    
+    PESSOA
+    CPF: necessita-se um código único de identificação do cliente;
+    Sexo: necessita-se saber qual é o sexo da pessoa que solicita os serviços;
+    Cod_Pessoa: necessita-se porque é um login e um método de controle do usuário;
+    Nome: necessita-se porque precisamos associar um nome ao código da pessoa;
+    
+    PRODUTO
+    Validade: precisa-se porque devem ter o controle de qualidade dos produtos vendidos;
+    
+    SERVICO
+    Tempo: precisa-se para ter uma média do tempo gasto em cada serviço;
+    
+    TIPO_CONTATO
+    Codigo: o contato precisa ter um código que o identifique como único;
+    Descricao: precisa-se ligar um contato a um código;
+    
+    TIPO_LOCAL
+    Cod_Tipo_Local: precisa-se de um código para o tipo do local;
+    Descricao: precisa-se ligar um tipo de local a um código;
+    
+    TIPO_STATUS
+    Cod_Tipo_Status: precisa-se de um código para o tipo de status;
+    Descricao: precisa-se saber qual é o andamento do serviço;
+ 
 ### 6	MODELO LÓGICO<br>
 ![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/L%C3%B3gico_1.png)
 

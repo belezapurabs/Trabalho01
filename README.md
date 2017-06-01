@@ -60,8 +60,8 @@ Trabalho desenvolvido durante a disciplina de BD
 
 #### 5.1 Validação do Modelo Conceitual
 
-    Grupo01: Gabriel, Sabrina
-    Grupo02: Luisa, Milena
+    Grupo01: Gabriel, Sabrina (Plantas Medicinais)
+    Grupo02: Luisa, Milena (Encontrar Pessoas com Alzheimer)
     
 #### < falta colocar >
 #### 5.2 DECISÕES DE PROJETO

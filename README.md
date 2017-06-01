@@ -63,7 +63,6 @@ Trabalho desenvolvido durante a disciplina de BD
     Grupo01: Gabriel, Sabrina (Plantas Medicinais)
     Grupo02: Luisa, Milena (Encontrar Pessoas com Alzheimer)
     
-#### < falta colocar >
 #### 5.2 DECISÕES DE PROJETO
    
     AGENDA
@@ -130,7 +129,7 @@ Trabalho desenvolvido durante a disciplina de BD
     Cod_Tipo_Status: chave primária simples, precisa-se de um código para o tipo de status;
     Descricao: atributo simples, precisa-se saber qual é o andamento do serviço;
 
-#### 5.3 DESCRIÇÃO DOS DADOS 
+falta #### 5.3 DESCRIÇÃO DOS DADOS 
 
     [objeto]: [descrição do objeto]
 

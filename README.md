@@ -66,16 +66,6 @@ Trabalho desenvolvido durante a disciplina de BD
 #### < falta colocar >
 #### 5.2 DECISÕES DE PROJETO
    
-    [atributo]: [descrição da decisão]
-    
-    EXEMPLO:
-    a) Campo endereço: em nosso projeto optamos por um campo multivalorado e composto, pois a empresa 
-    pode possuir para cada departamento mais de uma localização... 
-    b) justifique!
-
-#### < falta colocar >
-#### 5.3 DESCRIÇÃO DOS DADOS 
-
     AGENDA
     Codigo_Agenda: o agendamento precisa ter um código que o identifique como único;
     Hora_Agenda: precisa-se saber a hora que o serviço está agendado;
@@ -139,6 +129,15 @@ Trabalho desenvolvido durante a disciplina de BD
     TIPO_STATUS
     Cod_Tipo_Status: precisa-se de um código para o tipo de status;
     Descricao: precisa-se saber qual é o andamento do serviço;
+
+#### < falta colocar >
+#### 5.3 DESCRIÇÃO DOS DADOS 
+
+    [objeto]: [descrição do objeto]
+
+	EXEMPLO:
+	CLIENTE: Tabela que armazena as informações relativas ao cliente<br>
+	CPF: campo que armazena o número de Cadastro de Pessoa Física para cada cliente da empresa.<br>
  
 ### 6	MODELO LÓGICO<br>
 ![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/L%C3%B3gico_1.png)

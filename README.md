@@ -46,17 +46,16 @@ Trabalho desenvolvido durante a disciplina de BD
 	administrador(a)/dono(a)/gerente do estabelecimento possa ter o controle de tudo que acontece no salão,
 	desde a parte de cortes e pinturas (entre outros) quanto do estoque de produtos e saldo conforme o tempo.
 
-### 4. RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
+falta ### 4. RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
 
 	https://github.com/belezapurabs/Trabalho01/blob/master/beauty%2Bsalon.pdf
 
-### < falta colocar >
 ### 5.MODELO CONCEITUAL<br>
     a) NOTACAO ENTIDADE RELACIONAMENTO
     
 ![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/Conceitual_1.png)
     
-    <falta colocar> b) NOTACAO UML (Caso esteja fazendo a disciplina de analise)
+    falta b) NOTACAO UML (Caso esteja fazendo a disciplina de analise)
 
 #### 5.1 Validação do Modelo Conceitual
 
@@ -208,44 +207,39 @@ falta #### 5.3 DESCRIÇÃO DOS DADOS
 
 ### 7	MODELO FÍSICO<br>
 https://github.com/belezapurabs/Trabalho01/blob/master/SALAOBP.sql
- 
- 
-### < falta colocar > 
-### 8	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
-#### 8.1 DETALHAMENTO DAS INFORMAÇÕES
+
+falta ### 8	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
+falta #### 8.1 DETALHAMENTO DAS INFORMAÇÕES
+
         Detalhamento sobre as informações e processo de obtenção ou geração dos dados.
-        Referenciar todas as fontes referentes a :
+        Referenciar todas as fontes referentes a:
         a) obtenção dos dados
         b) obtenção de códigos reutilizados
         c) fontes de estudo para desenvolvimento do projeto
         
-#### 8.2 INCLUSÃO DO SCRIPT PARA CRIAÇÃO DE TABELA E INSERÇÃO DOS DADOS
+falta #### 8.2 INCLUSÃO DO SCRIPT PARA CRIAÇÃO DE TABELA E INSERÇÃO DOS DADOS
+
         a) inclusão das instruções para criação das tabelas e estruturas de amazenamento do BD
         b) inclusão das instruções de inserção dos dados nas referidas tabelas
         c) inclusão das instruções para execução de outros procedimentos necessários
-
-
         Entrega até este ponto em (data a ser definida)
 
-### < falta colocar >
-### 9	TABELAS E PRINCIPAIS CONSULTAS<br>
-OBS: Incluir para cada tópico as instruções SQL + imagens (print da tela) mostrando os resultados.<br>
-#### 9.1	CONSULTAS DAS TABELAS COM TODOS OS DADOS INSERIDOS (Todas) <br>
-#### 9.2	CONSULTAS DAS TABELAS COM FILTROS WHERE (Mínimo 3) <br>
-#### 9.3	CONSULTAS QUE USAM OPERADORES LÓGICOS, ARITMÉTICOS E CAMPOS RENOMEADOS (Mínimo 2)<br>
-#### 9.4	CONSULTAS QUE USAM OPERADORES LIKE (Mínimo 3)  <br>
-#### 9.5	ATUALIZAÇÃO E EXCLUSÃO DE DADOS (Mínimo 6)<br>
-#### 9.6	CONSULTAS COM JUNÇÃO (Todas Junções)<br>
-#### 9.7	CONSULTAS COM GROUP BY (Mínimo 5)<br>
-        Entrega até este ponto em (data a ser definida)
-#### 9.8	CONSULTAS COM LEFT E RIGHT JOIN (Mínimo 4) <br>
-#### 9.9	CONSULTAS COM SELF JOIN (todas) E VIEW (mais importantes) <br>
-#### 9.10	SUBCONSULTAS (Mínimo 3) <br>
+falta ### 9	TABELAS E PRINCIPAIS CONSULTAS<br>
+falta OBS: Incluir para cada tópico as instruções SQL + imagens (print da tela) mostrando os resultados.<br>
+falta #### 9.1	CONSULTAS DAS TABELAS COM TODOS OS DADOS INSERIDOS (Todas) <br>
+falta #### 9.2	CONSULTAS DAS TABELAS COM FILTROS WHERE (Mínimo 3) <br>
+falta #### 9.3	CONSULTAS QUE USAM OPERADORES LÓGICOS, ARITMÉTICOS E CAMPOS RENOMEADOS (Mínimo 2)<br>
+falta #### 9.4	CONSULTAS QUE USAM OPERADORES LIKE (Mínimo 3)  <br>
+falta #### 9.5	ATUALIZAÇÃO E EXCLUSÃO DE DADOS (Mínimo 6)<br>
+falta #### 9.6	CONSULTAS COM JUNÇÃO (Todas Junções)<br>
+falta #### 9.7	CONSULTAS COM GROUP BY (Mínimo 5)<br>
+falta      Entrega até este ponto em (data a ser definida)
+falta #### 9.8	CONSULTAS COM LEFT E RIGHT JOIN (Mínimo 4) <br>
+falta #### 9.9	CONSULTAS COM SELF JOIN (todas) E VIEW (mais importantes) <br>
+falta #### 9.10	SUBCONSULTAS (Mínimo 3) <br>
 
-### < falta colocar >
-### 10	ATUALIZAÇÃO DA DOCUMENTAÇÃO DOS SLIDES<br>
+falta ### 10	ATUALIZAÇÃO DA DOCUMENTAÇÃO DOS SLIDES<br>
 
-### < falta colocar >
-### 11	DIFICULDADES ENCONTRADAS PELO GRUPO<br>
+falta ### 11	DIFICULDADES ENCONTRADAS PELO GRUPO<br>
 
-### 12  FORMATACAO NO GIT: https://help.github.com/articles/basic-writing-and-formatting-syntax/
+falta ### 12  FORMATACAO NO GIT: https://help.github.com/articles/basic-writing-and-formatting-syntax/

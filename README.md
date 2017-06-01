@@ -67,68 +67,68 @@ Trabalho desenvolvido durante a disciplina de BD
 #### 5.2 DECISÕES DE PROJETO
    
     AGENDA
-    Codigo_Agenda: o agendamento precisa ter um código que o identifique como único;
-    Hora_Agenda: precisa-se saber a hora que o serviço está agendado;
-    Data_Agenda: precisa-se saber a data que o serviço está agendado;
+    Codigo_Agenda: chave primária simples, o agendamento precisa ter um código que o identifique como único;
+    Hora_Agenda: atributo simples, precisa-se saber a hora que o serviço está agendado;
+    Data_Agenda: atributo simples, precisa-se saber a data que o serviço está agendado;
     
     BAIRRO
-    Nome_Bairro: precisa-se saber o bairro que a pessoa mora;
-    Cod_Bairro: existem milhares de bairros e é preciso organizar isso;
+    Nome_Bairro: atributo simples, precisa-se saber o bairro que a pessoa mora;
+    Cod_Bairro: chave primária simples, existem milhares de bairros e é preciso organizar isso;
     
     COMPRA
-    Desconto: precisa-se saber a porcentagem do desconto aplicado;
-    Cod_Compra: a compra precisa ter um código que a identifique como única;
+    Desconto: atributo simples, precisa-se saber a porcentagem do desconto aplicado;
+    Cod_Compra: chave primária simples, a compra precisa ter um código que a identifique como única;
     
     CONTATO
-    Cod_Contato: o contato precisa ter um código que o identifique como único;
-    Descricao_Contato: precisa-se explicar o código do contato;
+    Cod_Contato: chave primária simples, o contato precisa ter um código que o identifique como único;
+    Descricao_Contato: atributo simples, precisa-se explicar o código do contato;
     
     ESTADO
-    Cod_Estado: o estado precisa ter um código que o identifique como único;
-    Nome_Estado: precisa-se ligar um nome de estado a um código;
+    Cod_Estado: chave primária simples, o estado precisa ter um código que o identifique como único;
+    Nome_Estado: atributo simples, precisa-se ligar um nome de estado a um código;
     
     FUNCIONARIO
-    Salario: precisa-se saber quanto recebe um funcionário;
-    Funcao: precisa-se saber o que cada funcionário faz na empresa;
+    Salario: atributo simples, precisa-se saber quanto recebe um funcionário;
+    Funcao: atributo simples, precisa-se saber o que cada funcionário faz na empresa;
     
     ITENS
-    Cod_Item: o item precisa ter um código que o identifique como único;
-    Nome: precisa-se ligar um código a uma pessoa;
-    Descricao: precisa-se explicar o código do item;
-    Preco: precisa-se saber quanto vale determinado item;
+    Cod_Item: chave primária simples, o item precisa ter um código que o identifique como único;
+    Nome: atributo simples, precisa-se ligar um código a uma pessoa;
+    Descricao: atributo simples, precisa-se explicar o código do item;
+    Preco: atributo simples, precisa-se saber quanto vale determinado item;
     
     LOCAL
-    CEP: precisa-se de um código do local;
-    Descricao: precisa-se ligar um local a um código;
-    Numero_Casa: precisa-se de um código que identifique o local como único;
+    CEP: atributo simples, precisa-se de um código do local;
+    Descricao: atributo simples, precisa-se ligar um local a um código;
+    Numero_Casa: atributo simples, precisa-se de um código que identifique o local como único;
     
     MUNICIPIO
-    Cod_Municipio: o município precisa ter um código que o identifique como único;
-    Nome_Municipio: precisa-se ligar um código a um município;
+    Cod_Municipio: chave primária simples, o município precisa ter um código que o identifique como único;
+    Nome_Municipio: atributo simples, precisa-se ligar um código a um município;
     
     PESSOA
-    CPF: necessita-se um código único de identificação do cliente;
-    Sexo: necessita-se saber qual é o sexo da pessoa que solicita os serviços;
-    Cod_Pessoa: necessita-se porque é um login e um método de controle do usuário;
-    Nome: necessita-se porque precisamos associar um nome ao código da pessoa;
+    CPF: atributo simples, necessita-se um código único de identificação do cliente;
+    Sexo: atributo simples,, necessita-se saber qual é o sexo da pessoa que solicita os serviços;
+    Cod_Pessoa: chave primária simples, necessita-se porque é um login e um método de controle do usuário;
+    Nome: atributo simples, necessita-se porque precisamos associar um nome ao código da pessoa;
     
     PRODUTO
-    Validade: precisa-se porque devem ter o controle de qualidade dos produtos vendidos;
+    Validade: atributo simples, precisa-se porque devem ter o controle de qualidade dos produtos vendidos;
     
     SERVICO
-    Tempo: precisa-se para ter uma média do tempo gasto em cada serviço;
+    Tempo: atributo simples, precisa-se para ter uma média do tempo gasto em cada serviço;
     
     TIPO_CONTATO
-    Codigo: o contato precisa ter um código que o identifique como único;
-    Descricao: precisa-se ligar um contato a um código;
+    Codigo: chave primária simples, o contato precisa ter um código que o identifique como único;
+    Descricao: atributo simples, precisa-se ligar um contato a um código;
     
     TIPO_LOCAL
-    Cod_Tipo_Local: precisa-se de um código para o tipo do local;
-    Descricao: precisa-se ligar um tipo de local a um código;
+    Cod_Tipo_Local: chave primária simples, precisa-se de um código para o tipo do local;
+    Descricao: atributo simples, precisa-se ligar um tipo de local a um código;
     
     TIPO_STATUS
-    Cod_Tipo_Status: precisa-se de um código para o tipo de status;
-    Descricao: precisa-se saber qual é o andamento do serviço;
+    Cod_Tipo_Status: chave primária simples, precisa-se de um código para o tipo de status;
+    Descricao: atributo simples, precisa-se saber qual é o andamento do serviço;
 
 #### < falta colocar >
 #### 5.3 DESCRIÇÃO DOS DADOS 

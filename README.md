@@ -75,70 +75,8 @@ falta #### 5.3 DESCRIÇÃO DOS DADOS
 	CPF: campo que armazena o número de Cadastro de Pessoa Física para cada cliente da empresa.<br>
 	
 	---------
-	
-	AGENDA
-	Codigo_Agenda
-	Hora_Agenda
-	Data_Agenda
-	
-	BAIRRO
-	Nome_Bairro
-	Cod_Bairro
-	
-	COMPRA
-	Desconto
-	Cod_Compra
-	
-	CONTATO
-	Cod_Contato
-	Descricao_Contato
-	
-	ESTADO
-	Cod_Estado
-	Nome_Estado
-	
-	FUNCIONARIO
-	Salario
-	Funcao
-	
-	ITENS
-	Cod_Item
-	Nome
-	Descricao
-	Preco
-	
-	LOCAL
-	Cep
-	Descricao
-	Numero_Casa
-	
-	MUNICIPIO
-	Cod_Municipio
-	Nome_Municipio
-	
-	PESSOA
-	Cpf
-	Sexo
-	Cod_Pessoa
-	Nome
-	
-	PRODUTO
-	Validade
-	
-	SERVICO
-	Tempo
-	
-	TIPO_CONTATO
-	Codigo
-	Descricao
-	
-	TIPO_LOCAL
-	Cod_Tipo_Local
-	Descricao
-	
-	TIPO_STATUS
-	Cod_Tipo_Status
-	Descricao
+		
+https://github.com/belezapurabs/Trabalho01/blob/master/5.3_DESCRI%C3%87%C3%83O%20DOS%20DADOS.txt
  
 ### 6	MODELO LÓGICO<br>
 ![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/L%C3%B3gico_1.png)

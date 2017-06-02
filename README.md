@@ -53,7 +53,7 @@ falta ### 4. RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
 ### 5.MODELO CONCEITUAL<br>
     a) NOTACAO ENTIDADE RELACIONAMENTO
     
-![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/Conceitual_1.png)
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/Conceitual_final.png)
     
     falta b) NOTACAO UML (Caso esteja fazendo a disciplina de analise)
 

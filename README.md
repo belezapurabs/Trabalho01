@@ -79,7 +79,7 @@ falta #### 5.3 DESCRIÇÃO DOS DADOS
 https://github.com/belezapurabs/Trabalho01/blob/master/5.3_DESCRI%C3%87%C3%83O%20DOS%20DADOS.txt
  
 ### 6	MODELO LÓGICO<br>
-![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/L%C3%B3gico_1.png)
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/Logico_4.png)
 
 ### 7	MODELO FÍSICO<br>
 https://github.com/belezapurabs/Trabalho01/blob/master/SALAOBP.sql

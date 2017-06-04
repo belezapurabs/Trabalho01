@@ -100,7 +100,8 @@ https://github.com/belezapurabs/Trabalho01/blob/master/salao_beleza_pura.sql
 https://github.com/belezapurabs/Trabalho01/blob/master/SALAO_BELEZA_PURA.sql
 
 ### 9 TABELAS E PRINCIPAIS CONSULTAS<br>
- 	OBS: Incluir para cada tópico as instruções SQL + imagens (print da tela) mostrando os resultados.<br>
+ 	
+	OBS: Incluir para cada tópico as instruções SQL + imagens (print da tela) mostrando os resultados.
 
 #### 9.1 CONSULTAS DAS TABELAS COM TODOS OS DADOS INSERIDOS (TODAS) <br>
 	

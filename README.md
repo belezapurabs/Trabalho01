@@ -82,7 +82,7 @@ https://github.com/belezapurabs/Trabalho01/blob/master/5.3_DESCRI%C3%87%C3%83O%2
 ![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/Logico_4.png)
 
 ### 7	MODELO FÍSICO<br>
-https://github.com/belezapurabs/Trabalho01/blob/master/SALAOBP.sql
+https://github.com/belezapurabs/Trabalho01/blob/master/salao_blz_pura.sql
 
 falta ### 8	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
 falta #### 8.1 DETALHAMENTO DAS INFORMAÇÕES

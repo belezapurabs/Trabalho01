@@ -219,7 +219,7 @@ https://github.com/belezapurabs/Trabalho01/blob/master/SALAO_BELEZA_PURA.sql
   
   SELECT *FROM CADASTRAR;
   
-  ![Alt text]()
+  ![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/CADASTRAR.png)
   
   Tabela Possui_CONTATO
   

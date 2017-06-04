@@ -65,11 +65,11 @@ https://github.com/belezapurabs/Trabalho01/blob/master/Conceitual_final.png
     
 #### 5.2 DECISÕES DE PROJETO
 
-    https://github.com/belezapurabs/Trabalho01/blob/master/5.2%20DECIS%C3%95ES%20DE%20PROJETO.txt
+https://github.com/belezapurabs/Trabalho01/blob/master/5.2%20DECIS%C3%95ES%20DE%20PROJETO.txt
 
 #### 5.3 DESCRIÇÃO DOS DADOS 
 
-    https://github.com/belezapurabs/Trabalho01/blob/master/5.3%20DESCRI%C3%87%C3%83O%20DOS%20DADOS.txt
+https://github.com/belezapurabs/Trabalho01/blob/master/5.3%20DESCRI%C3%87%C3%83O%20DOS%20DADOS.txt
  
 ### 6	MODELO LÓGICO<br>
 
@@ -77,7 +77,7 @@ https://github.com/belezapurabs/Trabalho01/blob/master/Conceitual_final.png
 
 ### 7	MODELO FÍSICO<br>
 
-    https://github.com/belezapurabs/Trabalho01/blob/master/salao_blz_pura.sql
+https://github.com/belezapurabs/Trabalho01/blob/master/salao_blz_pura.sql
 
 ### 8	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
 

@@ -68,14 +68,7 @@ falta ### 4. RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
 
 #### 5.3 DESCRIÇÃO DOS DADOS 
 
-    [objeto]: [descrição do objeto]
-
-	EXEMPLO:
-	CLIENTE: Tabela que armazena as informações relativas ao cliente<br>
-	CPF: campo que armazena o número de Cadastro de Pessoa Física para cada cliente da empresa.<br>
-	
-	---------
-	https://github.com/belezapurabs/Trabalho01/blob/master/5.3%20DESCRI%C3%87%C3%83O%20DOS%20DADOS.txt
+    https://github.com/belezapurabs/Trabalho01/blob/master/5.3%20DESCRI%C3%87%C3%83O%20DOS%20DADOS.txt
  
 ### 6	MODELO LÓGICO<br>
 ![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/Logico_4.png)

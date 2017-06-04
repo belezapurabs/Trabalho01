@@ -50,7 +50,7 @@ falta ### 4. RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
 
 	https://github.com/belezapurabs/Trabalho01/blob/master/beauty%2Bsalon.pdf
 
-### 5.MODELO CONCEITUAL<br>
+### 5. MODELO CONCEITUAL<br>
     a) NOTACAO ENTIDADE RELACIONAMENTO
     
 ![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/Conceitual_final.png)

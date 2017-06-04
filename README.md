@@ -63,10 +63,10 @@ falta ### 4. RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
     Grupo02: Luisa, Milena (Encontrar Pessoas com Alzheimer)
     
 #### 5.2 DECISÕES DE PROJETO
-       
- https://github.com/belezapurabs/Trabalho01/blob/master/5.2_DECIS%C3%95ES%20DE%20PROJETO..txt
 
-falta #### 5.3 DESCRIÇÃO DOS DADOS 
+       https://github.com/belezapurabs/Trabalho01/blob/master/5.2%20DECIS%C3%95ES%20DE%20PROJETO.txt
+
+#### 5.3 DESCRIÇÃO DOS DADOS 
 
     [objeto]: [descrição do objeto]
 
@@ -75,8 +75,7 @@ falta #### 5.3 DESCRIÇÃO DOS DADOS
 	CPF: campo que armazena o número de Cadastro de Pessoa Física para cada cliente da empresa.<br>
 	
 	---------
-		
-https://github.com/belezapurabs/Trabalho01/blob/master/5.3_DESCRI%C3%87%C3%83O%20DOS%20DADOS.txt
+	https://github.com/belezapurabs/Trabalho01/blob/master/5.3%20DESCRI%C3%87%C3%83O%20DOS%20DADOS.txt
  
 ### 6	MODELO LÓGICO<br>
 ![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/Logico_4.png)

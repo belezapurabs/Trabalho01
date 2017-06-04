@@ -59,16 +59,16 @@ https://github.com/belezapurabs/Trabalho01/blob/master/Conceitual_final.png
 
 < link here >
 
-	5.1 VALIDAÇÃO DO MODELO CONCEITUAL
+#### 5.1 VALIDAÇÃO DO MODELO CONCEITUAL
 
 	Grupo01: Gabriel, Sabrina (Plantas Medicinais)
 	Grupo02: Luisa, Milena (Encontrar Pessoas com Alzheimer)
 
-	5.2 DECISÕES DE PROJETO
+#### 5.2 DECISÕES DE PROJETO
 
 https://github.com/belezapurabs/Trabalho01/blob/master/5.2%20DECIS%C3%95ES%20DE%20PROJETO.txt
 
-	5.3 DESCRIÇÃO DOS DADOS 
+#### 5.3 DESCRIÇÃO DOS DADOS 
 
 https://github.com/belezapurabs/Trabalho01/blob/master/5.3%20DESCRI%C3%87%C3%83O%20DOS%20DADOS.txt
  
@@ -82,7 +82,7 @@ https://github.com/belezapurabs/Trabalho01/blob/master/salao_beleza_pura.sql
 
 ### 8	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
 
-	8.1 DETALHAMENTO DAS INFORMAÇÕES
+#### 8.1 DETALHAMENTO DAS INFORMAÇÕES
 
         Detalhamento sobre as informações e processo de obtenção ou geração dos dados.
         Referenciar todas as fontes referentes a:
@@ -90,7 +90,7 @@ https://github.com/belezapurabs/Trabalho01/blob/master/salao_beleza_pura.sql
         b) obtenção de códigos reutilizados;
         c) fontes de estudo para desenvolvimento do projeto.
         
- 	8.2 INCLUSÃO DO SCRIPT PARA CRIAÇÃO DE TABELA E INSERÇÃO DOS DADOS
+#### 8.2 INCLUSÃO DO SCRIPT PARA CRIAÇÃO DE TABELA E INSERÇÃO DOS DADOS
 
         a) inclusão das instruções para criação das tabelas e estruturas de amazenamento do BD;
         b) inclusão das instruções de inserção dos dados nas referidas tabelas;
@@ -99,9 +99,10 @@ https://github.com/belezapurabs/Trabalho01/blob/master/salao_beleza_pura.sql
 
 https://github.com/belezapurabs/Trabalho01/blob/master/SALAO_BELEZA_PURA.sql
 
- ### 9	TABELAS E PRINCIPAIS CONSULTAS<br>
+### 9 TABELAS E PRINCIPAIS CONSULTAS<br>
  	OBS: Incluir para cada tópico as instruções SQL + imagens (print da tela) mostrando os resultados.<br>
- 	9.1 CONSULTAS DAS TABELAS COM TODOS OS DADOS INSERIDOS (TODAS) <br>
+
+#### 9.1 CONSULTAS DAS TABELAS COM TODOS OS DADOS INSERIDOS (TODAS) <br>
 	
  	TABELA Contato
  	SELECT *FROM CONTATO;
@@ -184,30 +185,36 @@ https://github.com/belezapurabs/Trabalho01/blob/master/SALAO_BELEZA_PURA.sql
 ![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/Possui_CONTATO.png)
      
 #### 9.2 CONSULTAS DAS TABELAS COM FILTROS WHERE (Mínimo 3) <br>
- SELECT * FROM PESSOA WHERE COD_PESSOA >=75;
+
+ 	SELECT * FROM PESSOA WHERE COD_PESSOA >=75;
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/WHERE_PESSOA.png)
  
- ![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/WHERE_PESSOA.png)
- 
- SELECT NOME_BAIRRO FROM BAIRRO WHERE FK_MUNICIPIO_COD_MUNICIPIO = 31; 
- 
-  ![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/WHERE_BAIRRO.png)
+ 	SELECT NOME_BAIRRO FROM BAIRRO WHERE FK_MUNICIPIO_COD_MUNICIPIO = 31;
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/WHERE_BAIRRO.png)
   
-  SELECT NOME FROM ITENS WHERE PREÇO >= 25 AND COD_ITEM >=52 AND NOME != 'KIT';
-  
-  ![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/WHERE_ITENS.png)
+  	SELECT NOME FROM ITENS WHERE PREÇO >= 25 AND COD_ITEM >=52 AND NOME != 'KIT';
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/WHERE_ITENS.png)
  
-falta #### 9.3	CONSULTAS QUE USAM OPERADORES LÓGICOS, ARITMÉTICOS E CAMPOS RENOMEADOS (Mínimo 2)<br>
-falta #### 9.4	CONSULTAS QUE USAM OPERADORES LIKE (Mínimo 3)  <br>
-falta #### 9.5	ATUALIZAÇÃO E EXCLUSÃO DE DADOS (Mínimo 6)<br>
-falta #### 9.6	CONSULTAS COM JUNÇÃO (Todas Junções)<br>
-falta #### 9.7	CONSULTAS COM GROUP BY (Mínimo 5)<br>
-falta      Entrega até este ponto em (data a ser definida)
-falta #### 9.8	CONSULTAS COM LEFT E RIGHT JOIN (Mínimo 4) <br>
-falta #### 9.9	CONSULTAS COM SELF JOIN (todas) E VIEW (mais importantes) <br>
-falta #### 9.10	SUBCONSULTAS (Mínimo 3) <br>
+#### 9.3 CONSULTAS QUE USAM OPERADORES LÓGICOS, ARITMÉTICOS E CAMPOS RENOMEADOS (Mínimo 2)<br>
 
-falta ### 10	ATUALIZAÇÃO DA DOCUMENTAÇÃO DOS SLIDES<br>
+#### 9.4 CONSULTAS QUE USAM OPERADORES LIKE (Mínimo 3)  <br>
 
-falta ### 11	DIFICULDADES ENCONTRADAS PELO GRUPO<br>
+#### 9.5 ATUALIZAÇÃO E EXCLUSÃO DE DADOS (Mínimo 6)<br>
 
-falta ### 12  FORMATACAO NO GIT: https://help.github.com/articles/basic-writing-and-formatting-syntax/
+#### 9.6 CONSULTAS COM JUNÇÃO (Todas Junções)<br>
+
+#### 9.7 CONSULTAS COM GROUP BY (Mínimo 5)<br>
+
+	Entrega até este ponto em (data a ser definida)
+
+#### 9.8 CONSULTAS COM LEFT E RIGHT JOIN (Mínimo 4) <br>
+
+#### 9.9 CONSULTAS COM SELF JOIN (todas) E VIEW (mais importantes) <br>
+
+#### 9.10 SUBCONSULTAS (Mínimo 3) <br>
+
+### 10 ATUALIZAÇÃO DA DOCUMENTAÇÃO DOS SLIDES<br>
+
+### 11 DIFICULDADES ENCONTRADAS PELO GRUPO<br>
+
+### 12 FORMATACAO NO GIT: https://help.github.com/articles/basic-writing-and-formatting-syntax/

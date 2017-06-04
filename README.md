@@ -94,10 +94,9 @@ falta ### 4. RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
         a) inclusão das instruções para criação das tabelas e estruturas de amazenamento do BD;
         b) inclusão das instruções de inserção dos dados nas referidas tabelas;
         c) inclusão das instruções para execução de outros procedimentos necessários;
-	
         Entrega até este ponto em (data a ser definida).
 
-    https://github.com/belezapurabs/Trabalho01/blob/master/SALAO_BELEZA_PURA.sql
+https://github.com/belezapurabs/Trabalho01/blob/master/SALAO_BELEZA_PURA.sql
 
  ### 9	TABELAS E PRINCIPAIS CONSULTAS<br>
  OBS: Incluir para cada tópico as instruções SQL + imagens (print da tela) mostrando os resultados.<br>

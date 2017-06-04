@@ -18,31 +18,31 @@ Trabalho desenvolvido durante a disciplina de BD
 
 ### 3. MINI-MUNDO <br>
 
-	 O salão de beleza “Beleza Pura” está situado na Av. Belo Horizonte, 5525, Nova Almeida, Serra, ES. O mesmo é
+	O salão de beleza “Beleza Pura” está situado na Av. Belo Horizonte, 5525, Nova Almeida, Serra, ES. O mesmo é
 	dividido em alas: a feminina e a masculina. Nele, a forma de atendimento do corte masculino é dada pela ordem
 	de chegada, não havendo numeração para identificar quem chegou primeiro. Quando o corte é feminino o agendamento
 	é feito por telefone, porque normalmente leva-se mais tempo graças aos outros serviços que podem vir acompanhados
 	(selagem, pintura, manicure etc.); e quando não há horário agendado, a regra do masculino vale para todos.
 
-	 Como a empresa é pequena, não há um considerável número de funcionários. Para cortar cabelo masculino existem 4
+	Como a empresa é pequena, não há um considerável número de funcionários. Para cortar cabelo masculino existem 4
 	funcionários, sendo que 2 deles cortam também os femininos, além de 1 que faz especificamente relaxamento e 1
 	manicure que também é pedicure.
 	
-	 Quando um(a) cliente chega, confere-se o horário agendado. Caso esteja agendado, o serviço requerido é feito.
+	Quando um(a) cliente chega, confere-se o horário agendado. Caso esteja agendado, o serviço requerido é feito.
 	Mas caso não haja nenhum agendamento, o horário fica livre para aqueles clientes que não marcaram um horário e
 	apareceram de repente. Quanto aos dados básicos para o agendamento, solicitam nome, dia e horário do serviço
 	desejado e o número de telefone e/ou celular. Também podem ocorrer reagendamentos.
 	
-	 Após a conferência de horário, o cliente recebe o serviço pretendido. Pode ser que o profissional tente fazer
+	Após a conferência de horário, o cliente recebe o serviço pretendido. Pode ser que o profissional tente fazer
 	uma promoção de seus produtos durante o trabalho.
 	
-	 Terminado o serviço, o profissional preenche sua ficha de controle anotando todos os serviços que prestou e
+	Terminado o serviço, o profissional preenche sua ficha de controle anotando todos os serviços que prestou e
 	também se vendeu produtos. Caso tenha vendido, recebe uma comissão. No final do dia é contabilizado tudo o
 	que entrou e também tudo o que saiu: lucros e despesas. Esse sistema obsoleto só traz desvantagens: demora
 	no preenchimento dos papeis, desperdício de tempo, possibilidade de confundir valores ao fazer cálculos, 
 	risco de esquecer alguma entrada importante, perda dos papeis, entre outros.
 	  
-	 A proposta é criar um sistema que integralize todas essas informações de forma suscinta, de modo que o(a)
+	A proposta é criar um sistema que integralize todas essas informações de forma suscinta, de modo que o(a)
 	administrador(a)/dono(a)/gerente do estabelecimento possa ter o controle de tudo que acontece no salão,
 	desde a parte de cortes e pinturas (entre outros) quanto do estoque de produtos e saldo conforme o tempo.
 

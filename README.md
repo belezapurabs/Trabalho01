@@ -53,18 +53,18 @@ falta ### 4. RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
 ### 5. MODELO CONCEITUAL<br>
     a) NOTACAO ENTIDADE RELACIONAMENTO
     
-	![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/Conceitual_final.png)
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/Conceitual_final.png)
     
     falta b) NOTACAO UML (Caso esteja fazendo a disciplina de analise)
 
-#### 5.1 Validação do Modelo Conceitual
+#### 5.1 VALIDAÇÃO DO MODELO CONCEITUAL
 
     Grupo01: Gabriel, Sabrina (Plantas Medicinais)
     Grupo02: Luisa, Milena (Encontrar Pessoas com Alzheimer)
     
 #### 5.2 DECISÕES DE PROJETO
 
-    https://github.com/belezapurabs/Trabalho01/blob/master/5.2%20DECIS%C3%95ES%20DE%20PROJETO.txt
+![Alt text]https://github.com/belezapurabs/Trabalho01/blob/master/5.2%20DECIS%C3%95ES%20DE%20PROJETO.txt
 
 #### 5.3 DESCRIÇÃO DOS DADOS 
 

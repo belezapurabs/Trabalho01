@@ -64,7 +64,7 @@ falta ### 4. RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
     
 #### 5.2 DECISÕES DE PROJETO
 
-       https://github.com/belezapurabs/Trabalho01/blob/master/5.2%20DECIS%C3%95ES%20DE%20PROJETO.txt
+    https://github.com/belezapurabs/Trabalho01/blob/master/5.2%20DECIS%C3%95ES%20DE%20PROJETO.txt
 
 #### 5.3 DESCRIÇÃO DOS DADOS 
 

@@ -99,7 +99,7 @@ https://github.com/belezapurabs/Trabalho01/blob/master/salao_blz_pura.sql
         b) inclusão das instruções de inserção dos dados nas referidas tabelas
         c) inclusão das instruções para execução de outros procedimentos necessários
         Entrega até este ponto em (data a ser definida)
-	https://github.com/belezapurabs/Trabalho01/blob/master/SALAO_BELEZA_PURA.sql
+https://github.com/belezapurabs/Trabalho01/blob/master/SALAO_BELEZA_PURA.sql
 
  ### 9	TABELAS E PRINCIPAIS CONSULTAS<br>
  OBS: Incluir para cada tópico as instruções SQL + imagens (print da tela) mostrando os resultados.<br>

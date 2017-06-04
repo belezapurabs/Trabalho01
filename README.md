@@ -207,7 +207,19 @@ https://github.com/belezapurabs/Trabalho01/blob/master/SALAO_BELEZA_PURA.sql
   
  ![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/Possui_CONTATO.png)
  
-falta #### 9.2	CONSULTAS DAS TABELAS COM FILTROS WHERE (Mínimo 3) <br>
+ #### 9.2 CONSULTAS DAS TABELAS COM FILTROS WHERE (Mínimo 3) <br>
+ SELECT * FROM PESSOA WHERE COD_PESSOA >=75;
+ 
+ ![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/WHERE_PESSOA.png)
+ 
+ SELECT NOME_BAIRRO FROM BAIRRO WHERE FK_MUNICIPIO_COD_MUNICIPIO = 31; 
+ 
+  ![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/WHERE_BAIRRO.png)
+  
+  SELECT NOME FROM ITENS WHERE PREÇO >= 25 AND COD_ITEM >=52 AND NOME != 'KIT';
+  
+  ![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/WHERE_ITENS.png)
+ 
 falta #### 9.3	CONSULTAS QUE USAM OPERADORES LÓGICOS, ARITMÉTICOS E CAMPOS RENOMEADOS (Mínimo 2)<br>
 falta #### 9.4	CONSULTAS QUE USAM OPERADORES LIKE (Mínimo 3)  <br>
 falta #### 9.5	ATUALIZAÇÃO E EXCLUSÃO DE DADOS (Mínimo 6)<br>

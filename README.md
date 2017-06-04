@@ -77,7 +77,7 @@ https://github.com/belezapurabs/Trabalho01/blob/master/5.3%20DESCRI%C3%87%C3%83O
 
 ### 7	MODELO FÍSICO<br>
 
-https://github.com/belezapurabs/Trabalho01/blob/master/salao_blz_pura.sql
+https://github.com/belezapurabs/Trabalho01/blob/master/salao_beleza_pura.sql
 
 ### 8	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
 

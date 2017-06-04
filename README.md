@@ -3,7 +3,6 @@ Trabalho desenvolvido durante a disciplina de BD
 
 # Sumário
 
-
 ### 1. COMPONENTES <br>
 
 	Flávia Pissarra: flaviapissarra@gmail.com
@@ -46,28 +45,30 @@ Trabalho desenvolvido durante a disciplina de BD
 	administrador(a)/dono(a)/gerente do estabelecimento possa ter o controle de tudo que acontece no salão,
 	desde a parte de cortes e pinturas (entre outros) quanto do estoque de produtos e saldo conforme o tempo.
 
-falta ### 4. RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
+### 4. RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
 
 	https://github.com/belezapurabs/Trabalho01/blob/master/beauty%2Bsalon.pdf
 
 ### 5. MODELO CONCEITUAL<br>
 
-    a) NOTACAO ENTIDADE RELACIONAMENTO
+	a) NOTACAO ENTIDADE RELACIONAMENTO
     
 https://github.com/belezapurabs/Trabalho01/blob/master/Conceitual_final.png
     
-    falta b) NOTACAO UML (Caso esteja fazendo a disciplina de analise)
+	b) NOTACAO UML (Caso esteja fazendo a disciplina de analise)
 
-#### 5.1 VALIDAÇÃO DO MODELO CONCEITUAL
+< link here >
 
-    Grupo01: Gabriel, Sabrina (Plantas Medicinais)
-    Grupo02: Luisa, Milena (Encontrar Pessoas com Alzheimer)
-    
-#### 5.2 DECISÕES DE PROJETO
+	5.1 VALIDAÇÃO DO MODELO CONCEITUAL
+
+	Grupo01: Gabriel, Sabrina (Plantas Medicinais)
+	Grupo02: Luisa, Milena (Encontrar Pessoas com Alzheimer)
+
+	5.2 DECISÕES DE PROJETO
 
 https://github.com/belezapurabs/Trabalho01/blob/master/5.2%20DECIS%C3%95ES%20DE%20PROJETO.txt
 
-#### 5.3 DESCRIÇÃO DOS DADOS 
+	5.3 DESCRIÇÃO DOS DADOS 
 
 https://github.com/belezapurabs/Trabalho01/blob/master/5.3%20DESCRI%C3%87%C3%83O%20DOS%20DADOS.txt
  
@@ -99,88 +100,87 @@ https://github.com/belezapurabs/Trabalho01/blob/master/salao_beleza_pura.sql
 https://github.com/belezapurabs/Trabalho01/blob/master/SALAO_BELEZA_PURA.sql
 
  ### 9	TABELAS E PRINCIPAIS CONSULTAS<br>
- OBS: Incluir para cada tópico as instruções SQL + imagens (print da tela) mostrando os resultados.<br>
- 
- #### 9.1 CONSULTAS DAS TABELAS COM TODOS OS DADOS INSERIDOS (TODAS) <br>
- 
-     TABELA Contato
-     SELECT *FROM CONTATO;
+ 	OBS: Incluir para cada tópico as instruções SQL + imagens (print da tela) mostrando os resultados.<br>
+ 	9.1 CONSULTAS DAS TABELAS COM TODOS OS DADOS INSERIDOS (TODAS) <br>
+	
+ 	TABELA Contato
+ 	SELECT *FROM CONTATO;
 ![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/CONTATO.png)
- 
-     TABELA Tipo_Contato
-     SELECT *FROM TIPO_CONTATO;
+
+	TABELA Tipo_Contato
+	SELECT *FROM TIPO_CONTATO;
 ![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/TIPO_CONTATO.png)
      
-     TABELA Pessoa
-     SELECT *FROM PESSOA;
+ 	TABELA Pessoa
+ 	SELECT *FROM PESSOA;
 ![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/PESSOA%20.png)
      
-     Tabela Local
-     SELECT *FROM LOCAL;
+ 	TABELA Local
+ 	SELECT *FROM LOCAL;
 ![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/LOCAL.png)
-     
-     Tabela Tipo_Local
-     SELECT *FROM TIPO_LOCAL;
+
+ 	TABELA Tipo_Local
+ 	SELECT *FROM TIPO_LOCAL;
 ![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/TIPO_LOCAL.png)
      
-     Tabela BAIRRO
-     SELECT *FROM BAIRRO;
+ 	TABELA BAIRRO
+ 	SELECT *FROM BAIRRO;
 ![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/BAIRRO.png)
      
-     Tabela MUNICIPIO
-     SELECT *FROM MUNICIPIO;
+ 	TABELA MUNICIPIO
+ 	SELECT *FROM MUNICIPIO;
 ![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/MUNICIPIO.png)
      
-     Tabela ESTADO
-     SELECT *FROM ESTADO;
+ 	TABELA ESTADO
+ 	SELECT *FROM ESTADO;
 ![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/ESTADO.png)
      
-     Tabela ITENS
-     SELECT *FROM ITENS;
+ 	TABELA ITENS
+ 	SELECT *FROM ITENS;
 ![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/ITENS.png)
      
-     Tabela FUNCIONARIO
-     SELECT *FROM FUNCIONARIO;
+ 	TABELA FUNCIONARIO
+ 	SELECT *FROM FUNCIONARIO;
 ![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/FUNCIONARIO.png)
      
-     Tabela Tipo_Status
-     SELECT *FROM TIPO_STATUS;
+ 	TABELA Tipo_Status
+ 	SELECT *FROM TIPO_STATUS;
 ![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/TIPO_STATUS.png)
      
-     Tabela AGENDA
-     SELECT *FROM AGENDA;
+ 	TABELA AGENDA
+ 	SELECT *FROM AGENDA;
 ![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/AGENDA.png)
      
-     Tabela SERVICO
-     SELECT *FROM SERVICO;
+ 	TABELA SERVICO
+ 	SELECT *FROM SERVICO;
 ![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/SERVICO.png)
-     
-     Tabela PRODUTO
-     SELECT *FROM PRODUTO;
+ 	
+ 	TABELA PRODUTO
+ 	SELECT *FROM PRODUTO;
 ![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/PRODUTO.png)
      
-     Tabela Função
-     SELECT *FROM FUNÇÃO;
+ 	TABELA Função
+ 	SELECT *FROM FUNÇÃO;
 ![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/Fun%C3%A7%C3%A3o.png)
      
-     Tabela POSSUI
-     SELECT *FROM POSSUI;
+ 	TABELA POSSUI
+ 	SELECT *FROM POSSUI;
 ![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/POSSUI.png)
      
-     Tabela POSSUI_LOCAL
-     SELECT *FROM POSSUI_LOCAL;
+ 	TABELA POSSUI_LOCAL
+ 	SELECT *FROM POSSUI_LOCAL;
 ![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/POSSUI_LOCAL.png)
      
-     Tabela COMPRA
-     SELECT *FROM COMPRA;
+ 	TABELA COMPRA
+ 	SELECT *FROM COMPRA;
 ![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/COMPRA.png)
      
-     Tabela CADASTRAR
-     SELECT *FROM CADASTRAR;
+ 	TABELA CADASTRAR
+ 	SELECT *FROM CADASTRAR;
 ![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/CADASTRAR.png)
      
-     Tabela Possui_CONTATO
-     SELECT *FROM POSSUI_CONTATO;
+ 	TABELA Possui_CONTATO
+ 	SELECT *FROM POSSUI_CONTATO;
 ![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/Possui_CONTATO.png)
      
 #### 9.2 CONSULTAS DAS TABELAS COM FILTROS WHERE (Mínimo 3) <br>

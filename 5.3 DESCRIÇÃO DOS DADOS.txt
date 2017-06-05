@@ -28,35 +28,35 @@ Cod_Estado: atributo que dá um código único ao estado;
 Nome_Estado: atributo que descreve o código do estado;
 
 FUNCIONARIO: tabela que armazena as informações relativas aos funcionários;
-Salario
-Funcao
+Salario: atributo que descreve o valor que o funcionário recebe por mês;
+Funcao: atributo que descreve o que faz o funcionário;
 
 ITENS: tabela que armazena as informações relativas aos itens disponíveis na loja;
-Cod_Item: atributo que dá um código único a
-Nome: atributo que descreve o código do item;
-Descricao: atributo que descreve o item; 
-Preco
+Cod_Item: atributo que dá um código único ao item disponível na loja;
+Nome: atributo que descreve o código do item disponível na loja;
+Descricao: atributo que descreve o item disponível na loja;
+Preco: atributo que descreve o preço do item disponível na loja;
 
 LOCAL: tabela que armazena as informações relativas ao local que a pessoa mora;
-Cep: 
+Cep: atributo que descreve o código do local;
 Descricao: atributo que descreve o cep;
-Numero_Casa: 
+Numero_Casa: atributo que descreve o número da casa;
 
 MUNICIPIO: tabela que armazena as informações relativas ao município que a pessoa mora;
-Cod_Municipio: atributo que dá um código único a
+Cod_Municipio: atributo que dá um código único ao município;
 Nome_Municipio: atributo que descreve o código do município;
 
 PESSOA: tabela que armazena as informações relativas à pessoa;
-Cpf
-Sexo
+Cpf: atributo que descreve o cadastro de pessoa física;
+Sexo: atributo que descreve o sexo da pessoa;
 Cod_Pessoa: atributo que dá um código único à pessoa;
-Nome: atributo que descreve o código da pessoa;
+Nome: atributo que descreve o código da pessoa (nome);
 
 PRODUTO: tabela que armazena as informações relativas aos produtos vendidos na loja;
-Validade
+Validade: atributo que descreve a validade de um produto;
 
 SERVICO: tabela que armazena as informações relativas aos serviços prestados na loja;
-Tempo
+Tempo: atributo que descreve o tempo que durará cada serviço;
 
 TIPO_CONTATO: tabela que armazena as informações relativas ao tipo de contato;
 Codigo: atributo que dá um código único ao contato;

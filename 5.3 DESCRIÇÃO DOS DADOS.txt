@@ -20,12 +20,12 @@ Desconto: atributo que identifica a porcentagem do desconto;
 Cod_Compra: atributo que difere o código de cada compra;
 
 CONTATO: tabela que armazena as informações relativas ao contato;
-Cod_Contato: atributo que dá um código único a
-Descricao_Contato
+Cod_Contato: atributo que dá um código único ao contato;
+Descricao_Contato: atributo que descreve o código do contato;
 
 ESTADO: tabela que armazena as informações relativas ao estado que o cliente mora;
-Cod_Estado: atributo que dá um código único a
-Nome_Estado
+Cod_Estado: atributo que dá um código único ao estado;
+Nome_Estado: atributo que descreve o código do estado;
 
 FUNCIONARIO: tabela que armazena as informações relativas aos funcionários;
 Salario
@@ -33,24 +33,24 @@ Funcao
 
 ITENS: tabela que armazena as informações relativas aos itens disponíveis na loja;
 Cod_Item: atributo que dá um código único a
-Nome
-Descricao
+Nome: atributo que descreve o código do item;
+Descricao: atributo que descreve o item; 
 Preco
 
 LOCAL: tabela que armazena as informações relativas ao local que a pessoa mora;
-Cep
-Descricao
+Cep: 
+Descricao: atributo que descreve o cep;
 Numero_Casa: 
 
 MUNICIPIO: tabela que armazena as informações relativas ao município que a pessoa mora;
 Cod_Municipio: atributo que dá um código único a
-Nome_Municipio
+Nome_Municipio: atributo que descreve o código do município;
 
 PESSOA: tabela que armazena as informações relativas à pessoa;
 Cpf
 Sexo
-Cod_Pessoa: atributo que dá um código único a
-Nome
+Cod_Pessoa: atributo que dá um código único à pessoa;
+Nome: atributo que descreve o código da pessoa;
 
 PRODUTO: tabela que armazena as informações relativas aos produtos vendidos na loja;
 Validade
@@ -59,13 +59,13 @@ SERVICO: tabela que armazena as informações relativas aos serviços prestados 
 Tempo
 
 TIPO_CONTATO: tabela que armazena as informações relativas ao tipo de contato;
-Codigo: atributo que dá um código único a
-Descricao
+Codigo: atributo que dá um código único ao contato;
+Descricao: atributo que descreve o código do contato;
 
 TIPO_LOCAL: tabela que armazena as informações relativas ao tipo de local;
-Cod_Tipo_Local: atributo que dá um código único a
-Descricao
+Cod_Tipo_Local: atributo que dá um código único ao tipo de local;
+Descricao: atributo que descreve o código do tipo de local;
 
 TIPO_STATUS: tabela que armazena as informações relativas ao tipo de status;
-Cod_Tipo_Status: atributo que dá um código único a
-Descricao
+Cod_Tipo_Status: atributo que dá um código único ao tipo de status;
+Descricao: atributo que descreve o código do tipo de status;

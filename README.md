@@ -47,7 +47,9 @@ Trabalho desenvolvido durante a disciplina de BD
 
 ### 4. RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
 
-	https://github.com/belezapurabs/Trabalho01/blob/master/beauty%2Bsalon.pdf
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/Balsamic_i.png)
+
+	https://github.com/belezapurabs/Trabalho01/blob/master/beautysalon%2B(1).pdf
 
 ### 5. MODELO CONCEITUAL<br>
 

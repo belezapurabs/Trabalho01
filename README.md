@@ -49,7 +49,7 @@ Trabalho desenvolvido durante a disciplina de BD
 
 ![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/Balsamic_i.png)
 
-	https://github.com/belezapurabs/Trabalho01/blob/master/beautysalon%2B(1).pdf
+https://github.com/belezapurabs/Trabalho01/blob/master/beautysalon%2B(1).pdf
 
 ### 5. MODELO CONCEITUAL<br>
 

@@ -7,24 +7,24 @@ CPF: campo que armazena o número de Cadastro de Pessoa Física para cada client
 ----------------------------
 
 AGENDA: tabela que armazena as informações relativas aos horários;
-Codigo_Agenda: atributo que difere as diferentes entradas na tabela;
-Hora_Agenda: atributo que difere os diferentes horários na tabela;
-Data_Agenda: atributo que difere as diferentes datas na tabela;
+Codigo_Agenda: atributo que difere as entradas da tabela;
+Hora_Agenda: atributo que difere os horários na tabela;
+Data_Agenda: atributo que difere as datas na tabela;
 
 BAIRRO: tabela que armazena as informações relativas ao bairro que o cliente mora;
-Nome_Bairro: 
-Cod_Bairro:
+Nome_Bairro: atributo que difere o nome dos bairros;
+Cod_Bairro: atributo que dá um código único a determinado bairro;
 
 COMPRA: tabela que armazena as informações relativas às compras;
-Desconto
-Cod_Compra
+Desconto: atributo que identifica a porcentagem do desconto;
+Cod_Compra: atributo que difere o código de cada compra;
 
 CONTATO: tabela que armazena as informações relativas ao contato;
-Cod_Contato
+Cod_Contato: atributo que dá um código único a
 Descricao_Contato
 
 ESTADO: tabela que armazena as informações relativas ao estado que o cliente mora;
-Cod_Estado
+Cod_Estado: atributo que dá um código único a
 Nome_Estado
 
 FUNCIONARIO: tabela que armazena as informações relativas aos funcionários;
@@ -32,7 +32,7 @@ Salario
 Funcao
 
 ITENS: tabela que armazena as informações relativas aos itens disponíveis na loja;
-Cod_Item
+Cod_Item: atributo que dá um código único a
 Nome
 Descricao
 Preco
@@ -40,16 +40,16 @@ Preco
 LOCAL: tabela que armazena as informações relativas ao local que a pessoa mora;
 Cep
 Descricao
-Numero_Casa
+Numero_Casa: 
 
 MUNICIPIO: tabela que armazena as informações relativas ao município que a pessoa mora;
-Cod_Municipio
+Cod_Municipio: atributo que dá um código único a
 Nome_Municipio
 
 PESSOA: tabela que armazena as informações relativas à pessoa;
 Cpf
 Sexo
-Cod_Pessoa
+Cod_Pessoa: atributo que dá um código único a
 Nome
 
 PRODUTO: tabela que armazena as informações relativas aos produtos vendidos na loja;
@@ -59,13 +59,13 @@ SERVICO: tabela que armazena as informações relativas aos serviços prestados 
 Tempo
 
 TIPO_CONTATO: tabela que armazena as informações relativas ao tipo de contato;
-Codigo
+Codigo: atributo que dá um código único a
 Descricao
 
 TIPO_LOCAL: tabela que armazena as informações relativas ao tipo de local;
-Cod_Tipo_Local
+Cod_Tipo_Local: atributo que dá um código único a
 Descricao
 
 TIPO_STATUS: tabela que armazena as informações relativas ao tipo de status;
-Cod_Tipo_Status
+Cod_Tipo_Status: atributo que dá um código único a
 Descricao

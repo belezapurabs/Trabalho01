@@ -6,66 +6,66 @@ CPF: campo que armazena o número de Cadastro de Pessoa Física para cada client
 
 ----------------------------
 
-AGENDA
-Codigo_Agenda
-Hora_Agenda
-Data_Agenda
+AGENDA: tabela que armazena as informações relativas aos horários;
+Codigo_Agenda: atributo que difere as diferentes entradas na tabela;
+Hora_Agenda: atributo que difere os diferentes horários na tabela;
+Data_Agenda: atributo que difere as diferentes datas na tabela;
 
-BAIRRO
-Nome_Bairro
-Cod_Bairro
+BAIRRO: tabela que armazena as informações relativas ao bairro que o cliente mora;
+Nome_Bairro: 
+Cod_Bairro:
 
-COMPRA
+COMPRA: tabela que armazena as informações relativas às compras;
 Desconto
 Cod_Compra
 
-CONTATO
+CONTATO: tabela que armazena as informações relativas ao contato;
 Cod_Contato
 Descricao_Contato
 
-ESTADO
+ESTADO: tabela que armazena as informações relativas ao estado que o cliente mora;
 Cod_Estado
 Nome_Estado
 
-FUNCIONARIO
+FUNCIONARIO: tabela que armazena as informações relativas aos funcionários;
 Salario
 Funcao
 
-ITENS
+ITENS: tabela que armazena as informações relativas aos itens disponíveis na loja;
 Cod_Item
 Nome
 Descricao
 Preco
 
-LOCAL
+LOCAL: tabela que armazena as informações relativas ao local que a pessoa mora;
 Cep
 Descricao
 Numero_Casa
 
-MUNICIPIO
+MUNICIPIO: tabela que armazena as informações relativas ao município que a pessoa mora;
 Cod_Municipio
 Nome_Municipio
 
-PESSOA
+PESSOA: tabela que armazena as informações relativas à pessoa;
 Cpf
 Sexo
 Cod_Pessoa
 Nome
 
-PRODUTO
+PRODUTO: tabela que armazena as informações relativas aos produtos vendidos na loja;
 Validade
 
-SERVICO
+SERVICO: tabela que armazena as informações relativas aos serviços prestados na loja;
 Tempo
 
-TIPO_CONTATO
+TIPO_CONTATO: tabela que armazena as informações relativas ao tipo de contato;
 Codigo
 Descricao
 
-TIPO_LOCAL
+TIPO_LOCAL: tabela que armazena as informações relativas ao tipo de local;
 Cod_Tipo_Local
 Descricao
 
-TIPO_STATUS
+TIPO_STATUS: tabela que armazena as informações relativas ao tipo de status;
 Cod_Tipo_Status
 Descricao

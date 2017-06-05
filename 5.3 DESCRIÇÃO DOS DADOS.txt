@@ -1,11 +1,3 @@
-[objeto]: [descrição do objeto]
-
-EXEMPLO:
-CLIENTE: Tabela que armazena as informações relativas ao cliente
-CPF: campo que armazena o número de Cadastro de Pessoa Física para cada cliente da empresa.
-
-----------------------------
-
 AGENDA: tabela que armazena as informações relativas aos horários;
 Codigo_Agenda: atributo que difere as entradas da tabela;
 Hora_Agenda: atributo que difere os horários na tabela;
@@ -68,4 +60,4 @@ Descricao: atributo que descreve o código do tipo de local;
 
 TIPO_STATUS: tabela que armazena as informações relativas ao tipo de status;
 Cod_Tipo_Status: atributo que dá um código único ao tipo de status;
-Descricao: atributo que descreve o código do tipo de status;
+Descricao: atributo que descreve o código do tipo de status.

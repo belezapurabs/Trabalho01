@@ -58,7 +58,7 @@ https://github.com/belezapurabs/Trabalho01/blob/master/beautysalon%2B(1).pdf
 
 ![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/Conceitual_final.png)
     
-	b) NOTACAO UML (Caso esteja fazendo a disciplina de analise)
+	
 
 < link here >
 

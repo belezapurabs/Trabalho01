@@ -60,7 +60,6 @@ https://github.com/belezapurabs/Trabalho01/blob/master/beautysalon%2B(1).pdf
     
 	
 
-< link here >
 
 #### 5.1 VALIDAÇÃO DO MODELO CONCEITUAL
 

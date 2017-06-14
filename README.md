@@ -76,7 +76,7 @@ https://github.com/belezapurabs/Trabalho01/blob/master/5.3%20DESCRI%C3%87%C3%83O
  
 ### 6	MODELO LÓGICO<br>
 
-![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/Logico_4.png)
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/ModeloLogicoAtualizado.png)
 
 ### 7	MODELO FÍSICO<br>
 

@@ -56,7 +56,7 @@ https://github.com/belezapurabs/Trabalho01/blob/master/beautysalon%2B(1).pdf
 	a) NOTACAO ENTIDADE RELACIONAMENTO
     
 
-![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/Conceitual_final.png)
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/ModleoConceitualAtualizado.png)
     
 	
 

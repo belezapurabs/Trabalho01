@@ -196,12 +196,130 @@ https://github.com/belezapurabs/Trabalho01/blob/master/SALAO_BELEZA_PURA.sql
 ![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/3_WHERE_ITENS.png)
  
 #### 9.3 CONSULTAS QUE USAM OPERADORES LÓGICOS, ARITMÉTICOS E CAMPOS RENOMEADOS (Mínimo 2)<br>
+	TABELA FUNCIONARIO
+  	SELECT FK_PESSOA_COD_PESSOA_FUNC ,Salario,SALARIO*(1.5) AS 'NOVO SALARIO'  FROM FUNCIONARIO  WHERE FK_PESSOA_COD_PESSOA_FUNC  >75 AND Salario >937  ;
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/1_Table_L%C3%93GICOS_FUNCIONARIO.png)
+
+	TABELA ITENS
+  	SELECT NOME,PREÇO ,Preço-(2.5) AS 'PROMOÇÃO' FROM ITENS WHERE COD_item >=50 AND COD_item <= 60 AND NOME='KIT' OR NOME='CORTE';
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/2_Table_L%C3%93GICOS_ITEM.png)
 
 #### 9.4 CONSULTAS QUE USAM OPERADORES LIKE (Mínimo 3)  <br>
+	TABELA LOCAL
+  	SELECT * FROM  LOCAL WHERE Descrição LIKE '%A%' AND FK_TIPO_LOCAL_Cod_tipo_local =101 ;
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/1_Table_LIKE_LOCAL.png)
+
+	TABELA MUNICIPIO;
+  	SELECT * FROM  MUNICIPIO WHERE Nome_municipio LIKE 'V%' ;
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/2_Table_LIKE_MUNICIPIO.png)
+
+	TABELA ITENS;
+  	SELECT Nome ,Preço FROM ITENS WHERE Descrição LIKE BINARY'%i%';
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/3_Table_LIKE_ITENS.png)
 
 #### 9.5 ATUALIZAÇÃO E EXCLUSÃO DE DADOS (Mínimo 6)<br>
+	
+##ATUALIZAÇÃO<br>
+
+	TABELA AGENDA;
+  	SELECT Hora_Agenda,Data_Agenda FROM AGENDA WHERE Cod_Agenda >= 91; 
+	UPDATE AGENDA SET Hora_Agenda ='10:00'WHERE Cod_Agenda= 92;
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/1_Table_ATUALIZA%C3%87%C3%83O_AGENDA.png)
+	
+	TABELA PRODUTO;
+  	SELECT *FROM PRODUTO;
+	UPDATE PRODUTO SET VALIDADE ='2018/01/11'WHERE FK_ITENS_Cod_Item = 54 AND 60;
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/2_Table_ATUALIZA%C3%87%C3%83O_PRODUTO.png)
+
+	TABELA FUNCIONARIO;
+  	SELECT *FROM FUNCIONARIO;
+	UPDATE FUNCIONARIO SET Salario ='1500'WHERE FK_PESSOA_COD_PESSOA_FUNC =76;
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/3_Table_ATUALIZA%C3%87%C3%83O_FUNCIONARIO.png)
+
+##EXCLUSÃO<br>
+
+	TABELA ITENS;
+  	SELECT *FROM ITENS;
+	DELETE FROM ITENS WHERE Cod_Item = 60;
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/4_Table_EXCLUS%C3%83O_ITENS.png)
+
+	TABELA AGENDA ;
+  	SELECT *FROM AGENDA;
+	DELETE FROM AGENDA WHERE FK_Tipo_Status_Cod_Tipo_Status= 62;
+
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/5_Table_EXCLUS%C3%83O_AGENDA.png)
+
+	TABELA ITENS_COMPRA;
+  	SELECT *FROM Itens_compra;
+	DELETE FROM Itens_compra WHERE FK_Compra_COD_COMPRA = 905;
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/6_Table_EXCLUS%C3%83O_ITENS%20_COMPRA.png)
+
+
 
 #### 9.6 CONSULTAS COM JUNÇÃO (Todas Junções)<br>
+	
+	TABELA CONTATO E TIPO_CONTATO;
+	SELECT cod_contato,Descrição_cantato,DESCRIÇÃO from CONTATO inner join TIPO_CONTATO on (CONTATO.FK_TIPO_CONTATO_Codigo = TIPO_CONTATO.Codigo);
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/1_Table_JUN%C3%87AO_CONTATO_TIPO_CONTATO.png)
+
+	TABELA PESSOA E TIPO_USER;
+	SELECT CPF,SEXO,NOME,DESCRIÇÃO from  PESSOA inner join TIPO_USER on (PESSOA.FK_TIPO_USER_COD_TIPOUSER = TIPO_USER.COD_TIPOUSER);
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/2_Table_JUN%C3%87AO_PESSOA_TIPO_USER.png)
+
+	TABELA LOCAL,TIPO_LOCAL,BAIRRO E PESSOA;
+	SELECT LOCAL.CEP,LOCAL.Descrição,LOCAL.Numero_Casa,tipo_local.Descrição,bairro.Nome_bairro,
+	PESSOA.NOME FROM LOCAL INNER JOIN tipo_local ON (LOCAL.FK_TIPO_LOCAL_Cod_tipo_local=tipo_local.Cod_tipo_local) 
+	inner join bairro on(LOCAL.FK_BAIRRO_Cod_bairro=BAIRRO.cod_bairro)
+	inner join Pessoa on(LOCAL.FK_PESSOA_COD_PESSOA=PESSOA.COD_PESSOA);
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/3_Table_JUN%C3%87AO_LOCAL_TIPO_L_P.png)
+
+	TABELA BAIRRO E MUNICIPIO;
+	SELECT Nome_bairro , Nome_municipio from BAIRRO INNER JOIN MUNICIPIO ON (BAIRRO.FK_MUNICIPIO_Cod_Municipio=MUNICIPIO.COD_MUNICIPIO);
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/4_Table_JUN%C3%87AO_BAIRRO_MUNI.png)
+
+
+	TABELA  MUNICIPIO E ESTADO;
+	SELECT Nome_municipio, Nome_Estado from MUNICIPIO INNER JOIN ESTADO ON (MUNICIPIO.FK_ESTADO_Cod_Estado=ESTADO.Cod_Estado);
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/5_Table_JUN%C3%87AO_MUNI_ESTADO.png)
+
+	TABELA  AGENDA,ITENS,STATUS E PESSOA;
+	SELECT AGENDA.Hora_Agenda,
+	AGENDA.Data_Agenda,ITENS.Nome,PESSOA.NOME,
+	Tipo_Status.Descrição FROM AGENDA INNER JOIN ITENS ON (AGENDA.FK_SERVICO_FK_ITENS_Cod_Item=ITENS.Cod_Item) 
+	inner join PESSOA on(AGENDA.FK_PESSOA_COD_PESSOA=PESSOA.COD_PESSOA)
+	inner join Tipo_Status on(AGENDA.FK_Tipo_Status_Cod_Tipo_Status=Tipo_Status.Cod_Tipo_Status);
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/6_Table_JUN%C3%87AO_AGENDA_I_P.png)
+
+
+	TABELA  PRODUTO E ITENS;
+	SELECT ITENS.Nome, ITENS.Descrição,PRODUTO.VALIDADE ,
+	ITENS.Preço from PRODUTO INNER JOIN ITENS ON (PRODUTO.FK_ITENS_Cod_Item=ITENS.Cod_Item);
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/7_Table_JUN%C3%87AO_PRODUTO_ITENS.png
+	
+	TABELA  SERVICO E ITENS;
+	SELECT ITENS.Nome, ITENS.Descrição,SERVICO.TEMPO ,
+	ITENS.Preço from SERVICO INNER JOIN ITENS ON (SERVICO.FK_ITENS_Cod_Item=ITENS.Cod_Item);
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/8_Table_JUN%C3%87AO_SERVICO_ITENS.png)
+
+	TABELA  FUNCIONARIO,PESSOA ITENS E TIPO_FUNÇÃO;
+	SELECT FUNCIONARIO.Salario,PESSOA.NOME,ITENS.Nome,
+	tipo_funcao.Descricao FROM FUNCIONARIO INNER JOIN PESSOA ON (FUNCIONARIO.FK_PESSOA_COD_PESSOA_FUNC=PESSOA.COD_PESSOA) 
+	inner join ITENS on(FUNCIONARIO.FK_SERVICO_FK_ITENS_Cod_Item=ITENS.Cod_Item)
+	inner join tipo_funcao on(FUNCIONARIO.FK_tipo_funcao_Codigo=tipo_funcao.Codigo);
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/9_Table_JUN%C3%87AO_FUNCIONARIO_P_I.png)
+
+	TABELA  COMPRA E PESSOA;
+	SELECT Compra.cod_compra,Compra.desconto,Compra.data,
+	pessoa.nome from Compra INNER JOIN PESSOA ON (Compra.FK_PESSOA_COD_PESSOA=PESSOA.COD_PESSOA);
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/10_Table_JUN%C3%87AO_COMPRA_PESSOA.png)
+
+	TABELA  ITENS_COMPRA;
+	SELECT compra.data,compra.desconto,itens.nome,itens.preço
+	from itens_compra INNER JOIN Compra ON (Itens_compra.FK_Compra_COD_COMPRA=Compra.COD_COMPRA)
+	INNER JOIN ITENS ON (Itens_compra.FK_ITENS_Cod_Item=ITENS.COD_ITEM);
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/11_Table_JUN%C3%87AO_itens_compra.png)
+
+	
 
 #### 9.7 CONSULTAS COM GROUP BY (Mínimo 5)<br>
 

@@ -294,7 +294,7 @@ https://github.com/belezapurabs/Trabalho01/blob/master/SALAO_BELEZA_PURA.sql
 	TABELA  PRODUTO E ITENS;
 	SELECT ITENS.Nome, ITENS.Descrição,PRODUTO.VALIDADE ,
 	ITENS.Preço from PRODUTO INNER JOIN ITENS ON (PRODUTO.FK_ITENS_Cod_Item=ITENS.Cod_Item);
-![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/7_Table_JUN%C3%87AO_PRODUTO_ITENS.png
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/7_Table_JUN%C3%87AO_PRODUTO_ITENS.png)
 	
 	TABELA  SERVICO E ITENS;
 	SELECT ITENS.Nome, ITENS.Descrição,SERVICO.TEMPO ,

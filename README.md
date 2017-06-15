@@ -107,96 +107,93 @@ https://github.com/belezapurabs/Trabalho01/blob/master/SALAO_BELEZA_PURA.sql
 
 #### 9.1 CONSULTAS DAS TABELAS COM TODOS OS DADOS INSERIDOS (TODAS) <br>
 	
+	TABELA PESSOA
+ 	SELECT *FROM PESSOA;
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/1_Table_PESSOA.png)
+
+	TABELA TIPO_USER
+ 	SELECT *FROM TIPO_USER;
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/2_TabIe_TIPO_USER.png)
+	
+	
  	TABELA Contato
  	SELECT *FROM CONTATO;
-![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/CONTATO.png)
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/3_Table_CONTATO.png)
 
 	TABELA Tipo_Contato
 	SELECT *FROM TIPO_CONTATO;
-![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/TIPO_CONTATO.png)
-     
- 	TABELA Pessoa
- 	SELECT *FROM PESSOA;
-![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/PESSOA%20.png)
-     
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/4_Table_TIPO_CONTATO.png)
+    
  	TABELA Local
  	SELECT *FROM LOCAL;
-![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/LOCAL.png)
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/5_TabIe_LOCAL.png)
 
  	TABELA Tipo_Local
  	SELECT *FROM TIPO_LOCAL;
-![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/TIPO_LOCAL.png)
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/6_TabIe_TIPO_LOCAL.png)
      
  	TABELA BAIRRO
  	SELECT *FROM BAIRRO;
-![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/BAIRRO.png)
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/7_TabIe_BAIRRO.png)
      
  	TABELA MUNICIPIO
  	SELECT *FROM MUNICIPIO;
-![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/MUNICIPIO.png)
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/8_TabIe_MUNICIPIO.png)
      
  	TABELA ESTADO
  	SELECT *FROM ESTADO;
-![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/ESTADO.png)
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/9_TabIe_ESTADO.png)
      
  	TABELA ITENS
  	SELECT *FROM ITENS;
-![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/ITENS.png)
-     
- 	TABELA FUNCIONARIO
- 	SELECT *FROM FUNCIONARIO;
-![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/FUNCIONARIO.png)
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/10_TabIe_ITENS.png)
      
  	TABELA Tipo_Status
  	SELECT *FROM TIPO_STATUS;
-![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/TIPO_STATUS.png)
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/11_TabIe_TIPO_STATUSpng.png)
      
  	TABELA AGENDA
  	SELECT *FROM AGENDA;
-![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/AGENDA.png)
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/12_TabIe_AGENDA.png)
      
  	TABELA SERVICO
  	SELECT *FROM SERVICO;
-![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/SERVICO.png)
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/13_TabIe_SERVICO.png)
  	
  	TABELA PRODUTO
  	SELECT *FROM PRODUTO;
-![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/PRODUTO.png)
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/14_TabIe_PRODUTO.png)
+
+	TABELA FUNCIONARIO
+ 	SELECT *FROM FUNCIONARIO;
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/15_TabIe_FUNCIONARIO.png)
      
- 	TABELA Função
- 	SELECT *FROM FUNÇÃO;
-![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/Fun%C3%A7%C3%A3o.png)
-     
- 	TABELA POSSUI
- 	SELECT *FROM POSSUI;
-![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/POSSUI.png)
-     
- 	TABELA POSSUI_LOCAL
- 	SELECT *FROM POSSUI_LOCAL;
-![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/POSSUI_LOCAL.png)
+ 	TABELA TIPO_FUNÇÃO
+ 	SELECT *FROM tipo_funcao;
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/16_TabIe_TIPO_FUNCAO.png)
      
  	TABELA COMPRA
  	SELECT *FROM COMPRA;
-![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/COMPRA.png)
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/17_TabIe_COMPRA.png)
      
- 	TABELA CADASTRAR
- 	SELECT *FROM CADASTRAR;
-![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/CADASTRAR.png)
+ 	TABELA ITENS_COMPRA
+ 	SELECT *FROM Itens_compra;
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/18_TabIe_ITENS_COMPRA.png)
      
- 	TABELA Possui_CONTATO
- 	SELECT *FROM POSSUI_CONTATO;
-![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/Possui_CONTATO.png)
+ 
      
 #### 9.2 CONSULTAS DAS TABELAS COM FILTROS WHERE (Mínimo 3) <br>
-
+	TABELA PESSOA
  	SELECT * FROM PESSOA WHERE COD_PESSOA >=75;
-![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/WHERE_PESSOA.png)
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/1_WHERE_PESSOA.png)
  
+ 	TABELA BAIRRO
  	SELECT NOME_BAIRRO FROM BAIRRO WHERE FK_MUNICIPIO_COD_MUNICIPIO = 31;
-![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/WHERE_BAIRRO.png)
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/2_WHERE_BAIRRO.png)
   
+  	TABELA ITENS
   	SELECT NOME FROM ITENS WHERE PREÇO >= 25 AND COD_ITEM >=52 AND NOME != 'KIT';
-![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/WHERE_ITENS.png)
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/3_WHERE_ITENS.png)
  
 #### 9.3 CONSULTAS QUE USAM OPERADORES LÓGICOS, ARITMÉTICOS E CAMPOS RENOMEADOS (Mínimo 2)<br>
 

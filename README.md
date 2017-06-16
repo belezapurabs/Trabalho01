@@ -322,10 +322,56 @@ https://github.com/belezapurabs/Trabalho01/blob/master/SALAO_BELEZA_PURA.sql
 	
 
 #### 9.7 CONSULTAS COM GROUP BY (Mínimo 5)<br>
+	TABELA CONTATO ;
+	SELECT* FROM CONTATO GROUP BY FK_TIPO_CONTATO_Codigo; 
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/1_Table_GROUP%20BY_CONTATO.png)
+	
+	TABELA PESSOA ;
+	SELECT * FROM PESSOA GROUP BY FK_TIPO_USER_COD_TIPOUSER ;  
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/2_Table_GROUP%20BY_PESSOA.png)
 
+	TABELA BAIRRO ;
+	SELECT Nome_bairro , Nome_municipio,FK_MUNICIPIO_Cod_Municipio from BAIRRO  INNER JOIN MUNICIPIO ON (BAIRRO.FK_MUNICIPIO_Cod_Municipio=MUNICIPIO.COD_MUNICIPIO) GROUP BY FK_MUNICIPIO_Cod_Municipio ;  
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/3_Table_GROUP%20BY_BAIRRO.png)
+
+	TABELA LOCAL ;
+	SELECT * FROM LOCAL GROUP BY FK_TIPO_LOCAL_Cod_tipo_local AND FK_TIPO_LOCAL_Cod_tipo_local ;
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/4_Table_GROUP%20BY_LOCAL.png)
+
+	TABELA AGENDA ;
+	SELECT * FROM AGENDA GROUP BY FK_Tipo_Status_Cod_Tipo_Status  ;
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/5_Table_GROUP%20BY_AGENDA.png)
+	
 	Entrega até este ponto em (data a ser definida)
 
 #### 9.8 CONSULTAS COM LEFT E RIGHT JOIN (Mínimo 4) <br>
+##LEFT<br>
+	
+	
+	TABELA PESSOA ;
+	SELECT PESSOA.NOME,AGENDA.DATA_AGENDA FROM PESSOA LEFT OUTER JOIN AGENDA ON(AGENDA.FK_PESSOA_COD_PESSOA=PESSOA.COD_PESSOA) ;
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/3_Table_LEFT_PESSOA.png)
+
+	TABELA COMPRA ;
+	SELECT PESSOA.NOME,COMPRA.DESCONTO,COMPRA.DATA FROM PESSOA LEFT OUTER JOIN COMPRA ON (COMPRA.FK_PESSOA_COD_PESSOA=PESSOA.COD_PESSOA);
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/4_Table_LEFT_COMPRA.png)
+
+
+
+
+##RIGHT<br>
+
+
+	TABELA CONTATO ;
+	SELECT CONTATO.Descrição_cantato,TIPO_CONTATO.DESCRIÇÃO FROM CONTATO RIGHT OUTER JOIN TIPO_CONTATO ON (CONTATO.FK_TIPO_CONTATO_Codigo=TIPO_CONTATO.Codigo);
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/1_Table_RIGHT_CONTATO.png)
+
+	TABELA PESSOA ;
+	SELECT PESSOA.NOME,FUNCIONARIO.SALARIO FROM FUNCIONARIO  RIGHT OUTER JOIN PESSOA ON(PESSOA.COD_PESSOA=FUNCIONARIO.FK_PESSOA_COD_PESSOA_FUNC);
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/2_Table_RIGHT_PESSOA.png)
+	
+	
+	
 
 #### 9.9 CONSULTAS COM SELF JOIN (todas) E VIEW (mais importantes) <br>
 

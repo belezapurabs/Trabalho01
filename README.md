@@ -68,7 +68,7 @@ https://github.com/belezapurabs/Trabalho01/blob/master/beautysalon%2B(1).pdf
 
 #### 5.2 DECISÕES DE PROJETO
 
-https://github.com/belezapurabs/Trabalho01/blob/master/5.2%20DECIS%C3%95ES%20DE%20PROJETO.txt
+     Conversando com o professor sobre a criação de tabelas que eventualmente necessitamos no sistema, sendo elas “caixa” - para      controle das finanças da empresa, “compra_online” - neste caso para efetuar compra online e “entrega” - para guardar informações da  entrega de produtos, entre outras, optamos por não implementá-las porque caso o fizéssemos, o trabalho ficaria enorme, impedindo-nos de entregá-lo à tempo e com boa qualidade.
 
 #### 5.3 DESCRIÇÃO DOS DADOS 
 

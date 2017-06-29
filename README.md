@@ -99,7 +99,7 @@ https://github.com/belezapurabs/Trabalho01/blob/master/SALBP_7.sqll
         c) inclusão das instruções para execução de outros procedimentos necessários;
         Entrega até este ponto em (data a ser definida).
 
-https://github.com/belezapurabs/Trabalho01/blob/master/Salao_bp_Atualizado.sql
+https://github.com/belezapurabs/Trabalho01/blob/master/SALBP.sql
 
 ### 9 TABELAS E PRINCIPAIS CONSULTAS<br>
  	

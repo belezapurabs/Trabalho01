@@ -80,7 +80,7 @@ https://github.com/belezapurabs/Trabalho01/blob/master/5.3%20DESCRI%C3%87%C3%83O
 
 ### 7	MODELO FÍSICO<br>
 
-https://github.com/belezapurabs/Trabalho01/blob/master/Salao_bp_Atualizado.sql
+https://github.com/belezapurabs/Trabalho01/blob/master/SALBP_7.sqll
 
 ### 8	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
 

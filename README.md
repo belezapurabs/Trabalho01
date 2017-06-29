@@ -317,7 +317,7 @@ https://github.com/belezapurabs/Trabalho01/blob/master/SALBP.sql
 	SELECT compra.data,compra.desconto,itens.nome,itens.preço
 	from itens_compra INNER JOIN Compra ON (Itens_compra.FK_Compra_COD_COMPRA=Compra.COD_COMPRA)
 	INNER JOIN ITENS ON (Itens_compra.FK_ITENS_Cod_Item=ITENS.COD_ITEM);
-![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/11_Table_JUN%C3%87AO_itens_compra.png)
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/11_Table_JUN%C3%87AO_itens_compra2.png)
 
 	
 

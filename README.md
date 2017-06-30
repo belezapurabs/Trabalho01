@@ -377,6 +377,18 @@ https://github.com/belezapurabs/Trabalho01/blob/master/SALBP.sql
 
 #### 9.10 SUBCONSULTAS (Mínimo 3) <br>
 
+        TABELA ITENS ;
+	select * from itens where nome in(select nome from itens where nome <>"kit");
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/1_Table_SUBCONSULTAS_ITENS1.png))
+
+        TABELA  ITENS ;
+	select * from ITENS where preço  in(select preço from ITENS where preço >25); 
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/2_Table_SUBCONSULTAS_ITENS2.png)
+
+        TABELA  PESSOA ;
+	select * from pessoa where nome  in(select nome from pessoa where nome like "%j%"); 
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/3_Table_SUBCONSULTAS_PESSOAS.png)
+
 ### 10 ATUALIZAÇÃO DA DOCUMENTAÇÃO DOS SLIDES<br>
 
 ### 11 DIFICULDADES ENCONTRADAS PELO GRUPO<br>

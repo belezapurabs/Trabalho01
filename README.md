@@ -375,6 +375,63 @@ https://github.com/belezapurabs/Trabalho01/blob/master/SALBP.sql
 
 #### 9.9 CONSULTAS COM SELF JOIN (todas) E VIEW (mais importantes) <br>
 
+TABELA LOCAL,TIPO_LOCAL,BAIRRO E PESSOA;
+
+
+	CREATE  VIEW lOCAL_E_TIPO_LOCAL AS 
+	SELECT LOCAL.CEP,LOCAL.Descrição,LOCAL.Numero_Casa,bairro.Nome_bairro,
+	PESSOA.NOME FROM LOCAL inner join bairro on(LOCAL.FK_BAIRRO_Cod_bairro=BAIRRO.cod_bairro)
+	inner join Pessoa on(LOCAL.FK_PESSOA_COD_PESSOA=PESSOA.COD_PESSOA);	
+
+	SELECT * FROM lOCAL_E_TIPO_LOCAL
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/VIEW_LOCAL.1.JPG)
+
+
+
+TABELA  AGENDA,STATUS E PESSOA;
+	
+	CREATE VIEW AGENDA_DATA AS 
+	SELECT AGENDA.Hora_Agenda,
+	AGENDA.Data_Agenda,PESSOA.NOME,
+	Tipo_Status.Descrição FROM AGENDA inner join PESSOA on(AGENDA.FK_PESSOA_COD_PESSOA=PESSOA.COD_PESSOA)
+	inner join Tipo_Status on(AGENDA.FK_Tipo_Status_Cod_Tipo_Status=Tipo_Status.Cod_Tipo_Status);
+	
+	SELECT * FROM AGENDA_DATA ;
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/VIEW_AGENDA.2.JPG)
+
+
+TABELA  FUNCIONARIOSA,PESSOA,TIPO_FUNÇÃO;
+	
+	CREATE VIEW FUNCIONARIO_SERVIÇO AS 
+	SELECT FUNCIONARIO.Salario,PESSOA.NOME,
+	tipo_funcao.Descricao FROM FUNCIONARIO INNER JOIN PESSOA ON (FUNCIONARIO.FK_PESSOA_COD_PESSOA_FUNC=PESSOA.COD_PESSOA) 
+	inner join tipo_funcao on(FUNCIONARIO.FK_tipo_funcao_Codigo=tipo_funcao.Codigo);
+
+	SELECT * FROM FUNCIONARIO_SERVIÇO ;
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/VIEW_LOCAL.4.JPG)
+
+	
+TABELA  ITENS_COMPRA;
+	
+	
+	CREATE VIEW ITENS_E_COMPRA AS 
+	SELECT compra.data,compra.desconto,itens.nome,itens.preço
+	from itens_compra INNER JOIN Compra ON (Itens_compra.FK_Compra_COD_COMPRA=Compra.COD_COMPRA)
+	INNER JOIN ITENS ON (Itens_compra.FK_ITENS_Cod_Item=ITENS.COD_ITEM);
+
+	SELECT * FROM ITENS_E_COMPRA ;
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/VIEW_ITENS_E_COMPRA.3.JPG)
+
+
+TABELA  MUNICIPIO E ESTADO;
+	
+	CREATE VIEW MUNI_ESTADO AS 
+	SELECT Nome_municipio, Nome_Estado from MUNICIPIO 
+	INNER JOIN ESTADO ON (MUNICIPIO.FK_ESTADO_Cod_Estado=ESTADO.Cod_Estado);
+	
+	SELECT * FROM MUNI_ESTADO;
+![Alt text](https://github.com/belezapurabs/Trabalho01/blob/master/VIEW_LOCAL.5.JPG)
+
 #### 9.10 SUBCONSULTAS (Mínimo 3) <br>
 
         TABELA ITENS ;

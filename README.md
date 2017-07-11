@@ -448,6 +448,10 @@ TABELA  MUNICIPIO E ESTADO;
 
 ### 10 ATUALIZAÇÃO DA DOCUMENTAÇÃO DOS SLIDES<br>
 
+https://github.com/belezapurabs/Trabalho01/blob/master/Sal%C3%A3o%20de%20beleza.pptx
+
 ### 11 DIFICULDADES ENCONTRADAS PELO GRUPO<br>
+
+	O trabalho por si só ele é muito completo dar pra ter uma noção muito grande, de como funciona uma empresar que usar um banco SQL, a de projetar tudo , desde o projeto de modelo relacional, criando o modelo lógico  e gerando o modelo fisico(graças a Deus existe o brmodelo para cria o modelo fisico pq escrever aquilo tudo no pulso ia consulmir muito tempo kk) ,  na inserção de dados foi tranquilo agora a dificuldade foi no modelo conceitual , criar o modelo conceitual  foi trabalhoso ele é a base pra fazer um banco de dados completo e left join e  right join , demorei a perceber uma diferença entre eles, não chegamos a ver  self join, provavelmete esse seria outra dificuldade rsrs, mas ate o momento eu achei esse trabalho muito rico pois comecei a enteder melhor como fazer na pratica um modelo conceitual e ir ate o modelo fisico.   
 
 ### 12 FORMATACAO NO GIT: https://help.github.com/articles/basic-writing-and-formatting-syntax/
